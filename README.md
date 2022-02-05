@@ -13,7 +13,7 @@ Use this link to get here: https://kobriengis.github.io/
 
 ### -------------------------------------------------------------
 
-### Below is from original template
+### Everything below is from the original template.
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
