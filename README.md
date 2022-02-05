@@ -5,13 +5,9 @@
 Kyle:
 Use this link to get here: https://kobriengis.github.io/
 
-
-
-
-
-
-
 ### -------------------------------------------------------------
+
+###   
 
 ### Everything below is from the original template.
 
