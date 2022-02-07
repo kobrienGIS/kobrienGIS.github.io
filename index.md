@@ -8,14 +8,6 @@
 <img src="images/AdobeStock_139559217.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
-
----
 
 ### GES 486 – Project 1: (Coming Soon)
 
