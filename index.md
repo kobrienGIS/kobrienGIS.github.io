@@ -5,15 +5,15 @@
 ### GES 381: Amazon Rainforest Study (Display is WIP)
 
 [Project 1 Title](/sample_page)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+<img src="images/AdobeStock_139559217.jpegraw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+<img src="images/AdobeStock_139559217.jpegraw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+<img src="images/AdobeStock_139559217.jpegraw=true"/>
 
 ---
 
