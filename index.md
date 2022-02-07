@@ -17,7 +17,7 @@
 
 ---
 
-### GES 486: (Coming Soon)
+### GES 486 – Project 1: (Coming Soon)
 
 [Project 1 Title](/sample_page)
 <img src="images/AdobeStock_139559217.jpeg?raw=true"/>
@@ -31,7 +31,7 @@
 <img src="images/AdobeStock_139559217.jpeg?raw=true"/>
 
 ---
-### GES 486: (Coming Soon)
+### GES 486 – Project 2: (Coming Soon)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
