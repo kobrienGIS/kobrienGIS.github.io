@@ -6,7 +6,8 @@
 
 ### GES 381 (Display is WIP)
 
-[Amazon Rainforest Study](/Project381/index)
+[Amazon Rainforest Study:](/Project381/index)
+
 A remote sensing study of protected areas in the Amazon within three different states from 2000 to 2020. 
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project381/index)
 
@@ -14,17 +15,20 @@ A remote sensing study of protected areas in the Amazon within three different s
 
 ### GES 486: (Coming Soon)
 
-[Project 1 Title](/Project486.1/index)
+[Project 1 Title:](/Project486.1/index)
+
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
 
 ---
-[Project 2 Title](/Project486.2/index)
+[Project 2 Title:](/Project486.2/index)
+
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
 
 ---
-[Project 3 Title](/Project486.3/index)
+[Project 3 Title:](/Project486.3/index)
+
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.3/index)
 
