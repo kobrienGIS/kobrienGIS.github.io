@@ -1,37 +1,41 @@
-**Note:** This website will display content from previous classes as well as GES 486 Advanced GIS.
+**Note:** This website will display content from previous classes in addition to GES 486 Advanced GIS.
 
 ## Portfolio
 
 ---
 
-### GES 381: Amazon Rainforest Study (Display is WIP)
+### GES 381 (Display is WIP)
 
-[Project 1 Title](/sample_page)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+[Amazon Rainforest Study](/Project381/index)
+A remote sensing study of protected areas in the Amazon within three different states from 2000 to 2020. 
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project381/index)
 
 ---
 
 ### GES 486: (Coming Soon)
 
-[Project 1 Title](/sample_page)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+[Project 1 Title](/Project486.1/index)
+This is a short sentence about that particular project.
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+[Project 2 Title](/Project486.2/index)
+This is a short sentence about that particular project.
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/AdobeStock_139559217.jpeg?raw=true"/>
+[Project 3 Title](/Project486.3/index)
+This is a short sentence about that particular project.
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.3/index)
 
 ---
 ### [Placeholder]
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title]
+- [Project 2 Title]
+- [Project 3 Title]
+- [Project 4 Title]
+- [Project 5 Title]
 
 ---
 
