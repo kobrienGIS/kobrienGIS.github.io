@@ -7,7 +7,7 @@
 ### GES 381 (Display is WIP)
 
 [Amazon Rainforest Study:](/Project381/index)
-A remote sensing study of protected areas in the Amazon within three different states from 2000 to 2020. 
+A remote sensing study of government accountability in protected areas in the Amazon within three different countries from 2000 to 2020. 
 [<img src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
