@@ -1,3 +1,5 @@
+**Note:** This website will display content from previous classes as well as GES 486 Advanced GIS.
+
 ## Portfolio
 
 ---
