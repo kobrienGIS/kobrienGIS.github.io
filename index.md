@@ -4,18 +4,18 @@
 
 ---
 
-### GES 383: Cartographic Map
+### GES 383: Political Map of the Russia-Ukraine Crisis (2022/02/20)
 
-[Project 1 Title:](/Project486.1/index)
-This is a short sentence about that particular project.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
+[Russia-Ukraine Crisis:](/Project383/index)
+A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project383/index)
 
 ---
 
 ### GES 381: Group Remote Sensing Project (Display is WIP)
 
 [Amazon Rainforest Study:](/Project381/index)
-A remote sensing study of government accountability in protected areas in the Amazon within three different countries from 2000 to 2020. 
+A remote sensing study of government accountability in protected areas in the Amazon. 
 [<img src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
