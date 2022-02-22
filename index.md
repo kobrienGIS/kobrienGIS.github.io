@@ -25,7 +25,7 @@ A remote sensing study of government accountability in protected areas in the Am
 #### (Coming Soon)
 [Project 1 Title:](/Project486.1/index)
 This is a short sentence about that particular project.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
+[<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
 ---
 [Project 2 Title:](/Project486.2/index)
