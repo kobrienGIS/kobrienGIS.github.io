@@ -1,15 +1,8 @@
-## Project 1: Income Poverty Ratio in Harford County, Maryland 
+## Income to Poverty Level Ratio in Harford County, Maryland 
 
 **Project description:** This map is a sample of an interactive map created using RStudio's Rmd file types. The script uses tidycensus to pull census data for Harford County, Maryland that depicts the ratio of income to poverty level in the past 12 months per census tract. The map was then visualized using leaflet. 
 
 ### Project Code
-
----
-title: "Harford County Income Poverty ratio"
-author: "Kyle O'Brien"
-date: "2/21/2022"
-output: html_document
----
 
 ```{r}
 # Load necessary R packages
