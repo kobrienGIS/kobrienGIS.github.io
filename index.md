@@ -8,7 +8,7 @@
 
 [Russia-Ukraine Crisis:](/Project383/index)
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
-[<img src="Project383/ukrainerussiaMAP.png?raw=true"/>](/Project383/index)
+[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
