@@ -4,7 +4,7 @@
 
 ---
 
-### GES 383 (Thematic Cartography): 
+### GES  383  (Thematic  Cartography): 
 
 [Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index) <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
@@ -12,7 +12,7 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 ---
 
-### GES 381 (Remote Sensing): 
+### GES  381  (Remote  Sensing): 
 
 [Amazon Rainforest Group Remote Sensing Project (Display is WIP):](/Project381/index) <br>
 A remote sensing study of government accountability in protected areas in the Amazon. 
@@ -20,7 +20,7 @@ A remote sensing study of government accountability in protected areas in the Am
 
 ---
 
-### GES 486 (Advanced GIS): 
+### GES  486  (Advanced  GIS): 
 
 (Coming Soon)
 [Project 1 Title:](/Project486.1/index)
