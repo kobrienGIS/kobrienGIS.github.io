@@ -12,6 +12,7 @@ output: html_document
 ---
 
 ```{r}
+# Load necessary R packages
 library(leaflet)
 library(tidycensus)
 
@@ -20,7 +21,7 @@ tidyvars <- load_variables(2019, "acs5", cache = TRUE)
 View(tidyvars)
 
 # Loads user census api key
-#census_api_key("d5a25a75e0e78d97666c85b0c43907da39ceeb70", install = TRUE, overwrite = TRUE)
+#census_api_key("INSERT API", install = TRUE, overwrite = TRUE)
 
 # Retrieves data for Harford County for ratio of income to poverty level in the past 12 months
 harford_rincpov <- get_acs(
