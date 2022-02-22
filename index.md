@@ -4,7 +4,15 @@
 
 ---
 
-### GES 381 (Display is WIP)
+### GES 383: Cartographic Map
+
+[Project 1 Title:](/Project486.1/index)
+This is a short sentence about that particular project.
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
+
+---
+
+### GES 381: Group Remote Sensing Project (Display is WIP)
 
 [Amazon Rainforest Study:](/Project381/index)
 A remote sensing study of government accountability in protected areas in the Amazon within three different countries from 2000 to 2020. 
