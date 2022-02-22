@@ -22,7 +22,7 @@ A remote sensing study of government accountability in protected areas in the Am
 
 ### GES  486  (Advanced  GIS): 
 
-(Coming Soon)
+#### (Coming Soon)
 [Project 1 Title:](/Project486.1/index)
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
