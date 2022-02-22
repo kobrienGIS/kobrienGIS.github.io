@@ -12,6 +12,14 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 ---
 
+### GES  486  (Advanced  GIS): 
+
+[Income to Poverty Level Ratio in Harford County, Maryland:](/Project486.1/index) <br>
+A sample interactive map produced in RStudio with tidycensus and leaflet in an R Markdown file.
+[<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
+
+---
+
 ### GES  381  (Remote  Sensing): 
 
 [Amazon Rainforest Group Remote Sensing Project (Display is WIP):](/Project381/index) <br>
@@ -20,13 +28,7 @@ A remote sensing study of government accountability in protected areas in the Am
 
 ---
 
-### GES  486  (Advanced  GIS): 
-
-[Income to Poverty Level Ratio in Harford County, Maryland:](/Project486.1/index) <br>
-A sample interactive map produced in RStudio with tidycensus and leaflet in an R Markdown file.
-[<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
-
----
+### More  GES  486
 
 #### (Coming Soon)
 [Project 2 Title:](/Project486.2/index)
