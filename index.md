@@ -14,9 +14,9 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 ### GES  486  (Advanced  GIS): 
 
-[Income to Poverty Level Ratio in Harford County, Maryland:](/Project486.1/index) <br>
+[Income to Poverty Level Ratio in Harford County, Maryland:](/Project486sample/index) <br>
 A sample interactive map produced in RStudio with tidycensus and leaflet in an R Markdown file.
-[<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
+[<img src="Project486sample/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486sample/index)
 
 ---
 
@@ -31,14 +31,14 @@ A remote sensing study of government accountability in protected areas in the Am
 ### GES  486  Continued:
 
 #### (Coming Soon)
-[Project 1 Title:](/Project486.2/index)
+[Project 1 Title:](/Project486.1/index) <br>
 This is a short sentence about that particular project.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.1/index)
 
 ---
-[Project 2 Title:](/Project486.3/index)
+[Project 2 Title:](/Project486.2/index) <br>
 This is a short sentence about that particular project.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.3/index)
+[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
 
 ---
 #### [Placeholder]
