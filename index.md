@@ -28,15 +28,15 @@ A remote sensing study of government accountability in protected areas in the Am
 
 ---
 
-### More  GES  486
+### GES  486  Continued:
 
 #### (Coming Soon)
-[Project 2 Title:](/Project486.2/index)
+[Project 1 Title:](/Project486.2/index)
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
 
 ---
-[Project 3 Title:](/Project486.3/index)
+[Project 2 Title:](/Project486.3/index)
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.3/index)
 
