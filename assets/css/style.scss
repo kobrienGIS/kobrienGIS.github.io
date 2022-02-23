@@ -46,20 +46,22 @@ header h1 a:hover {
 
 header h2 a {
  font-size: 1.0em;
- color: #363636;
+ color: #000000;
 }
 
-header h2 a:hover {
+header h2 a:hover,
+a:focus {
  font-size: 1.0em;
  color:#a61738;
 }
 
 header h3 a {
  font-size: 1.0em;
- color: #363636;
+ color: #000000;
 }
 
-header h3 a:hover {
+header h3 a:hover,
+a:focus {
  font-size: 1.0em;
  color:#a61738;
 }
