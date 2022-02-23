@@ -1,4 +1,4 @@
-**Note:** This website will display content from previous classes in addition to GES 486 Advanced GIS.
+**Note:** I can be contacted by e-mail at kobrien2@umbc.edu.
 
 ## Portfolio
 
