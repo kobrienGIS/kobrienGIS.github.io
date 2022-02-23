@@ -1,4 +1,4 @@
-**Note:** I can be reached by e-mail at <br>
+**Note:** I can be reached by e-mail at either <br>
 **kobrien2@umbc.edu** or **kyleobrien1204@gmail.com**
 
 ---
