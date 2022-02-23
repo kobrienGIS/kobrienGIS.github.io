@@ -6,7 +6,7 @@
 
 ### GES  383  (Thematic  Cartography): 
 
-[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index) <br>
+[** Political Map of the Russia-Ukraine Crisis (2022/02/20): **](/Project383/index) <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
 [<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
