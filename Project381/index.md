@@ -6,7 +6,7 @@
 
 ## Raw Project Code:
 
-'''js
+```js
 //  ––––  SHAPEFILE UPLOAD  –––– 
 
 
@@ -300,6 +300,6 @@ var outline = {color: 'tomato', fillColor: '00000000'};
 var RioNegroOutline = RioNegro.style(outline);
 Map.addLayer(RioNegroOutline, outline, 'Protected Area');
 
-'''
+```
 
 
