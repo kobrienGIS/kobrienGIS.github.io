@@ -4,7 +4,7 @@
 
 ### Project Code
 
-```{r}
+```r
 # Load necessary R packages
 library(leaflet)
 library(tidycensus)
