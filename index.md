@@ -1,5 +1,5 @@
-**Note:** I am reachable by e-mail at either <br>
-**kobrien2@umbc.edu** or **kyleobrien1204@gmail.com**
+I am reachable by e-mail at either **kobrien2@umbc.edu** <br>
+or **kyleobrien1204@gmail.com**
 
 ---
 
