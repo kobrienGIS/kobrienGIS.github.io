@@ -3,7 +3,7 @@
 
 ---
 
-## - Featured -
+## - Featured –
 
 **[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
