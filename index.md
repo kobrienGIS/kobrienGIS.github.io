@@ -11,8 +11,6 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 ---
 
-<br>
-
 ## - Projects - 
 
 ### GES  486  (Advanced  GIS): 
