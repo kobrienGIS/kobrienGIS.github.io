@@ -13,7 +13,7 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 <br>
 
-## - Project Showcase - 
+## - Projects - 
 
 ### GES  486  (Advanced  GIS): 
 
