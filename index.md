@@ -1,17 +1,17 @@
 
-# Project Showcase
+# Portfolio
 
 ---
 
 ## Featured
-
-### GES  383  (Thematic  Cartography): 
 
 **[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
 [<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
+
+## Project Showcase
 
 ### GES  486  (Advanced  GIS): 
 
@@ -24,6 +24,14 @@ A basic interactive map produced in RStudio with tidycensus and leaflet in an R 
 **[Coming Soon:](/Project486.2/index)** <br>
 This is a short sentence about that particular project.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
+
+---
+
+### GES  383  (Thematic  Cartography): 
+
+**[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index)** <br>
+A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
+[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
