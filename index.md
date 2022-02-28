@@ -35,6 +35,8 @@ This is a short sentence about that particular project.
 
 ---
 
+---
+
 ### Repository:
 
 - **[Project 1 Proposal](/Project1_486/README)**
