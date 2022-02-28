@@ -1,11 +1,12 @@
 title: "Kyle  P.  O'Brien" # your name (or website title) here
 logo: "/images/city.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Senior undergraduate student at the University of Maryland, Baltimore County (UMBC) studying <strong> Political Science </strong> , <strong> History </strong> , and <strong> GIS </strong> . 
+  Senior undergraduate student at the University of Maryland, Baltimore County (UMBC) studying <strong>Political Science</strong>, <strong>History</strong>, and <strong>GIS</strong>. 
   <br><br>
   This page will display some of my projects in GIS and Cartography and serve as a professional development portfolio.
   <br><br>
-  I am reachable by e-mail at either <strong> kobrien2@umbc.edu </strong> or <strong> kyleobrien1204@gmail.com </strong>
-
+  I am reachable by e-mail at either <strong>kobrien2@umbc.edu</strong> or <strong>kyleobrien1204@gmail.com</strong>.
+  <br>
+  
 theme: jekyll-theme-minimal
 google_analytics: 302061016 # your Google Analytics tracking ID here
