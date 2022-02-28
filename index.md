@@ -35,12 +35,6 @@ This is a short sentence about that particular project.
 
 ---
 
-[Coming Soon:](/Project486.3/index) <br>
-This is a short sentence about that particular project.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.3/index)
-
----
-
 #### [Repository]
 
 - [Project 1 Proposal](/Project1_486/README.md)
