@@ -11,8 +11,8 @@ The data would likely be Shapefiles or GeoJSONs of geographic data spanning one 
 ### - Are there any necessary **transformations or subsets** you need to do to the data?
 I would likely need to join informational tables to geographic data in order to convey some additional meaning on top of displaying geographic context. In any case where I may analyze areas at a larger scale I may require smaller subsets of regional data to accomodate. 
 
-- What is the **analysis** you'll be performing on your data sets?
+### - What is the **analysis** you'll be performing on your data sets?
 If I were to try and coorelate two or more variables I could perform some sort of spatial regression or difference of means tests to determine how closely related they are and how much they are influenced by geographic influences. If I were to try and locate clusters of high or low values I could then use spatial autocorellation measures such as Moran's I, Geary's C or Getis-Ord to provide some spatial statistical insights. 
 
-- What **outputs** will you be creating and how are they directly connected to the class?
+### - What **outputs** will you be creating and how are they directly connected to the class?
 I would likely output one or more maps and graphs/charts with coinciding data to support my geographical findings. This will be directly connected to the class as I could use methods that we learned in R, such as ggplot and patchwork to visualize maps and various plots together or I may use QGIS to create advanced visualizations that can be accompanied by data processed in RStudio.
