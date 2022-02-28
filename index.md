@@ -44,9 +44,7 @@ A remote sensing study of government accountability in protected areas in the Am
 
 ---
 
-<br>
-
-### Repository:
+## Repository:
 
 - **[Project 1 Proposal](/Project1_486/README)**
 
