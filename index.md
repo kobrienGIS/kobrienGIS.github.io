@@ -11,6 +11,8 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 ---
 
+---
+
 ## Project Showcase
 
 ### GES  486  (Advanced  GIS): 
@@ -19,7 +21,6 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 A basic interactive map produced in RStudio with tidycensus and leaflet in an R Markdown file.
 [<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
-<br>
 
 **[Coming Soon:](/Project486.2/index)** <br>
 This is a short sentence about that particular project.
