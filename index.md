@@ -37,7 +37,7 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 **[Baltimore Violent Crime Map:](/Project383.2/index)** <br>
 A choropleth map of Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA)
-[<img src="Project383.2/ukrainerussiaMAP.svg?raw=true"/>](/Project383.2/index)
+[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
 ---
 
