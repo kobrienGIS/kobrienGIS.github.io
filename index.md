@@ -4,14 +4,13 @@
 
 ### GES  383  (Thematic  Cartography): 
 
-**[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
-A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine (pre-invasion).
-[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
-
-
 **[Baltimore Violent Crime Map:](/Project383.2/index)** <br>
 A choropleth map of violent crime rates in Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA)
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
+
+**[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
+A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine (pre-invasion).
+[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
@@ -20,7 +19,6 @@ A choropleth map of violent crime rates in Baltimore City using data from the Ba
 **[Income to Poverty Ratio in Harford County, Maryland (Sample):](/Project486.1/index)** <br>
 A basic map produced in RStudio with tidycensus and leaflet in an R Markdown file. This will be removed in favor of future projects.
 [<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
-
 
 **[Coming Soon:](/Project486.2/index)** <br>
 (Placeholder) This is a short sentence about that particular project.
