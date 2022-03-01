@@ -20,8 +20,8 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 A basic map produced in RStudio with tidycensus and leaflet in an R Markdown file. This will be removed in favor of future projects.
 [<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
-**[Coming Soon:](/Project486.2/index)** <br>
-(Placeholder) This is a short sentence about that particular project.
+**[Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown):](/Project486.2/index)** <br>
+A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City.
 [<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
 
 ---
