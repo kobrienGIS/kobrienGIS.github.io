@@ -5,9 +5,11 @@
 
 ## - Featured –
 
-**[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index)** <br>
+**[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
-[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
+[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index){
+  border: 2px solid #555;
+}
 
 ---
 
@@ -28,9 +30,14 @@ This is a short sentence about that particular project.
 
 ### GES  383  (Thematic  Cartography): 
 
-**[Political Map of the Russia-Ukraine Crisis (2022/02/20):](/Project383/index)** <br>
+**[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine.
 [<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
+
+
+**[Baltimore Violent Crime Map:](/Project383.2/index)** <br>
+A choropleth map of Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA)
+[<img src="Project383.2/ukrainerussiaMAP.svg?raw=true"/>](/Project383.2/index)
 
 ---
 
