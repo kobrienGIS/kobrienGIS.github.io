@@ -22,7 +22,7 @@ A basic map produced in RStudio with tidycensus and leaflet in an R Markdown fil
 
 **[Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown):](/Project486.2/index)** <br>
 A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City.
-[<img src="images/AdobeStock_139559217.jpeg?raw=true"/>](/Project486.2/index)
+[<img src="Project486.2/BCityRelat.png?raw=true"/>](/Project486.2/index)
 
 ---
 
