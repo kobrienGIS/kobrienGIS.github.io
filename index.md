@@ -1,4 +1,4 @@
-Warning: Site is still under development.
+**Warning:** Site is still under development.
 
 # Portfolio
 
