@@ -5,7 +5,8 @@
 **Link to Project in Google Earth Engine:** <br>
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
-<img src="Project486.1/Screen Shot 2022-03-07 at 5.58.03 PM.png?raw=true"/>
+<img src="Project383/Screen Shot 2022-03-07 at 5.58.03 PM.png?raw=true"/>
+Largest extent of the Rio Negro Protected Area that I analyzed. This shows an clipped NDVI layer derived from cloud-filtered and composited Landsat imagery.
 
 ## Raw Project Code:
 
