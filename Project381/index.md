@@ -5,9 +5,7 @@
 **Link to Project in Google Earth Engine:** <br>
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
-
-Screen Shot 2022-03-07 at 5.58.03 PM.png
-
+<img src="Project486.1/Screen Shot 2022-03-07 at 5.58.03 PM.png?raw=true"/>
 
 ## Raw Project Code:
 
