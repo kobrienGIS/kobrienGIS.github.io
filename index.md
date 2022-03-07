@@ -30,8 +30,8 @@ A comparative visualization of the relationship between Income and 311 Service C
 
 ### GES  381  (Remote  Sensing): 
 
-**[Amazon Rainforest Group Remote Sensing Project (Display is WIP):](/Project381/index)** <br>
-A remote sensing study of government accountability in large protected areas within the Amazon Rainforest. The image below is a small-scale zoom of a Landsat-derived landcover layer of the Rio Negro protected area that highlights deforestation due to urban spillover from the nearby city of Manaus. 
+**[Amazon Rainforest Group Remote Sensing Project:](/Project381/index)** <br>
+A remote sensing study of government accountability in large protected areas within the Amazon Rainforest. The image below is a small-scale zoom of a Landsat-derived landcover layer of the Rio Negro protected area that highlights deforestation due to urban spillover from the nearby city of Manaus.
 [<img src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
