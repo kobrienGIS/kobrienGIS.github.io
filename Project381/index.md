@@ -6,7 +6,7 @@
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
 [<img src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF)
-Caption – Largest extent of the Rio Negro Protected Area that I analyzed. This image shows an clipped NDVI layer derived from cloud-filtered and composited Landsat imagery. The entire project can be viewed in the GEE viewer via the link above.
+Caption – This image shows the full extent of the Rio Negro Protected Area that I analyzed with a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. The entire project can be viewed in the GEE viewer using the link above.
 
 ## Raw Project Code:
 
