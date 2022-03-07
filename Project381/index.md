@@ -6,7 +6,7 @@
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
 <img src="Project381/Screen Shot 2022-03-07 at 5.58.03 PM.png?raw=true"/>
-Largest extent of the Rio Negro Protected Area that I analyzed. This shows an clipped NDVI layer derived from cloud-filtered and composited Landsat imagery.
+Caption: Largest extent of the Rio Negro Protected Area that I analyzed. This shows an clipped NDVI layer derived from cloud-filtered and composited Landsat imagery.
 
 ## Raw Project Code:
 
