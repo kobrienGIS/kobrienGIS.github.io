@@ -12,7 +12,7 @@ Caption: Largest extent of the Rio Negro Protected Area that I analyzed. This im
 
 ```js
 //  ––––  SHAPEFILE UPLOAD  –––– 
-
+// This was a collaborative project in which each team member focused on one protected area.
 
 // Upload Rio Negro Park Shapefile
 var RioNegro = ee.FeatureCollection('users/kobrien2/RioNegro');
@@ -159,25 +159,27 @@ NBRStats(NBR3Clip)
 
 
 //  ––––   CLASSIFICATION & LANDCOVER   ––––
+// This section requires manual image classification training data to be created in the form of polygons. These were then exported into GQIS to be converted into point samples within the polygons to cut down on processing requirements.
+
 
 // Training Data (w/ Export to QGIS and Reuploaded Points)
-// Export.table.toDrive({
-//   collection: Forest,
-//   description:'forestfcToDrive',
-//   fileFormat: 'SHP'
-// });
+Export.table.toDrive({
+  collection: Forest,
+  description:'forestfcToDrive',
+  fileFormat: 'SHP'
+});
 
-// Export.table.toDrive({
-//   collection: NotForest,
-//   description:'notforestfcToDrive',
-//   fileFormat: 'SHP'
-// });
+Export.table.toDrive({
+  collection: NotForest,
+  description:'notforestfcToDrive',
+  fileFormat: 'SHP'
+});
 
-// Export.table.toDrive({
-//   collection: Water,
-//   description:'waterfcToDrive',
-//   fileFormat: 'SHP'
-// });
+Export.table.toDrive({
+  collection: Water,
+  description:'waterfcToDrive',
+  fileFormat: 'SHP'
+});
 
 var newfc = forest.merge(notforest).merge(water);
 
@@ -276,25 +278,26 @@ ClassStats(Landcover2020, 2);
 
 
 //  ––––  ACCURACY ASSESSMENT  –––– 
+// This section required 'ground truth' point samples for each landcover class based on google's satellite map and export to QGIS to compare these points to the landcover layer to report accuracy. The results were then compiled in tables. 
+
 
 var newfc2 = ForestAcc.merge(NotForestAcc).merge(WaterAcc);
 
-// // Export the FeatureCollection
-// Export.table.toDrive({
-//   collection: newfc2,
-//   description:'AccuracyPoints',
-//   fileFormat: 'SHP'
-// });
+// Export the FeatureCollection
+Export.table.toDrive({
+  collection: newfc2,
+  description:'AccuracyPoints',
+  fileFormat: 'SHP'
+});
 
-// var geometry = RioNegro.geometry;
-// Export.image.toDrive({
-//   image: Landcover2020,
-//   description: 'LCmap2020',
-//   scale: 30,
-//   region: geometry,
-//   maxPixels: 1e12
-// });
-
+var geometry = RioNegro.geometry;
+Export.image.toDrive({
+  image: Landcover2020,
+  description: 'LCmap2020',
+  scale: 30,
+  region: geometry,
+  maxPixels: 1e12
+});
 
 
 //  ––––  PROTECTED AREA OUTLINE  ––––
