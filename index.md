@@ -12,7 +12,7 @@ A choropleth map of violent crime rates in Baltimore City using data from the Ba
 
 **[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine (pre-invasion).
-[<img style="border:10px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
+[<img style="border:2px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
@@ -20,11 +20,11 @@ A simple political map showcasing the fragile geopolitical balance preserved bet
 
 **[Income to Poverty Ratio in Harford County, Maryland (Sample):](/Project486.1/index)** <br>
 A basic map produced in RStudio with tidycensus and leaflet in an R Markdown file. This will be removed in favor of future projects.
-[<img src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
+[<img style="border:2px solid black;" src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
 **[Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown):](/Project486.2/index)** <br>
 A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City.
-[<img src="Project486.2/BCityRelat.png?raw=true"/>](/Project486.2/index)
+[<img style="border:2px solid black;" src="Project486.2/BCityRelat.png?raw=true"/>](/Project486.2/index)
 
 ---
 
@@ -32,7 +32,7 @@ A comparative visualization of the relationship between Income and 311 Service C
 
 **[Amazon Rainforest Group Remote Sensing Project:](/Project381/index)** <br>
 A remote sensing study of government accountability in large protected areas within the Amazon Rainforest. The image below is a small-scale zoom of a Landsat-derived landcover layer of the Rio Negro protected area that highlights deforestation due to urban spillover from the nearby city of Manaus.
-[<img src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
+[<img style="border:2px solid black;" src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
 
