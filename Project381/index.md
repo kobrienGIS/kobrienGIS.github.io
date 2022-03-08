@@ -8,7 +8,7 @@
 **Link to full project in Google Earth Engine:** <br>
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
-[<img style="border:2px solid black;" src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF)
+[<img style="border:3px solid black;" src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF)
 This image shows the full extent of the Rio Negro protected area in a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. The entire project can be viewed in the GEE viewer using the link above.
 
 ## Raw Project Code:
