@@ -1,4 +1,4 @@
-**Warning:** Site is still under development.
+**Warning:** This site is still under development.
 
 # Portfolio
 
@@ -41,7 +41,7 @@ A comparative visualization of the relationship between Income and 311 Service C
 
 ---
 
-**Thank you** for visiting my page! Please contact me with any questions.
+**Thank you** for viewing my portfolio! Please contact me with any questions.
 
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
