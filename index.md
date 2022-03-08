@@ -29,7 +29,7 @@ The image above is a small-scale zoom of a Landsat-derived landcover layer of th
 
 ## GES  486  (Advanced  GIS): 
 
-Note: I am actively learning many of the techniques and workflows here. Products may appear unfinished or crude.
+Note: I am actively learning many of the programs and workflows shown here. Products may appear unfinished or crude.
 
 **[Income to Poverty Ratio in Harford County, Maryland:](/Project486.1/index)** <br>
 A beginner map rendering produced in RStudio with tidycensus, sf, and leaflet. 
