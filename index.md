@@ -29,12 +29,14 @@ The image above is a small-scale zoom of a Landsat-derived landcover layer of th
 
 ## GES  486  (Advanced  GIS): 
 
-**[Income to Poverty Ratio in Harford County, Maryland (Sample):](/Project486.1/index)** <br>
-A basic map produced in RStudio with the tidycensus and leaflet R packages. 
+Note: I am actively learning many of the techniques and workflows here. Products may appear unfinished or crude.
+
+**[Income to Poverty Ratio in Harford County, Maryland:](/Project486.1/index)** <br>
+A beginner map rendering produced in RStudio with tidycensus, sf, and leaflet. 
 [<img style="border:3px solid black;" src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
-**[Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown):](/Project486.2/index)** <br>
-A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City.
+**[Baltimore City Relationship between Income and 311 Service Calls (Lab 4):](/Project486.2/index)** <br>
+A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City in RStudio and QGIS.
 [<img style="border:3px solid black;" src="Project486.2/BCityRelat.png?raw=true"/>](/Project486.2/index)
 
 ---
