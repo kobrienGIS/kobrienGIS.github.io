@@ -4,7 +4,7 @@
 
 ---
 
-### GES  383  (Thematic  Cartography): 
+## GES  383  (Thematic  Cartography): 
 
 **[Baltimore Violent Crime Map:](/Project383.2/index)** <br>
 A choropleth map of violent crime rates in Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA)
@@ -18,7 +18,7 @@ I intend to improve this map and possibly create further iterations as events un
 
 ---
 
-### GES  381  (Remote  Sensing): 
+## GES  381  (Remote  Sensing): 
 
 **[Amazon Rainforest Group Remote Sensing Project:](/Project381/index)** <br>
 A remote sensing study of government accountability in large protected areas within the Amazon Rainforest.
@@ -27,7 +27,7 @@ The image above is a small-scale zoom of a Landsat-derived landcover layer of th
 
 ---
 
-### GES  486  (Advanced  GIS): 
+## GES  486  (Advanced  GIS): 
 
 **[Income to Poverty Ratio in Harford County, Maryland (Sample):](/Project486.1/index)** <br>
 A basic map produced in RStudio with the tidycensus and leaflet R packages. 
