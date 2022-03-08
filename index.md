@@ -38,12 +38,5 @@ A comparative visualization of the relationship between Income and 311 Service C
 [<img style="border:3px solid black;" src="Project486.2/BCityRelat.png?raw=true"/>](/Project486.2/index)
 
 ---
-
-## Pages:
-
-- **[Project 1 Proposal](/project1_486/P1Proposal)**
-
-
----
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
