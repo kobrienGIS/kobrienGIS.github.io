@@ -12,7 +12,7 @@ A choropleth map of violent crime rates in Baltimore City using data from the Ba
 
 **[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine (pre-invasion).
-[<img src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
+[<img style="border:10px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
