@@ -1,5 +1,7 @@
 # Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown)
 
+<img style="border:3px solid black;" src="BCityRelat.png?raw=true"/>
+
 **Project description:** I chose to investigate the relationship between income levels and 311 service calls in Baltimore City Census Tracts in 2019. The following script uses get_acs() to retrieve ACS survey data and reads in a shapefile of counts by polygon for 311 calls from the Baltimore City Government's data portal. ggplot2, ggiraph, and patchwork are used to visualize the maps to hopefully show some sort of visual relationship between the datasets.
 
 ### Project Code
