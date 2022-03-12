@@ -10,7 +10,6 @@
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
-<br>
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance that had been preserved between Russia, Ukraine, and NATO before the invasion began. <br>
@@ -34,7 +33,6 @@ Note: I am currently learning many of the programs and workflows shown here. Pro
 **Description:** A beginner map rendering of income-poverty ratios in Harford County, MD, produced in RStudio with tidycensus, sf, and leaflet. <br>
 [<img style="border:3px solid black;" src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
 
-<br>
 
 **[Relationship between Income and 311 Service Calls in Baltimore City](/Project486.2/index)** <br>
 **Description:** A comparative visualization of the relationship between Income and 311 Service Calls in Baltimore City in RStudio and QGIS. <br>
