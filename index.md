@@ -40,7 +40,8 @@ Note: I am currently learning many of the programs and workflows shown here. Pro
 
 ---
 
-**Thank you** for viewing my online portfolio! Please feel free to contact me with any questions.
+**Thank you** for viewing my online portfolio!
+Please feel free to contact me with any questions.
 
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
