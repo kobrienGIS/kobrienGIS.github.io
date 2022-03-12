@@ -21,9 +21,8 @@ I intend to improve this map and possibly create further iterations as events un
 ## GES  381 – Remote  Sensing: 
 
 **[Amazon Rainforest Group Remote Sensing Project:](/Project381/index)** <br>
-A remote sensing study of government accountability in large protected areas within the Amazon Rainforest.
+A remote sensing study of government accountability with conservation efforts in large protected areas within the Amazon Rainforest.
 [<img style="border:3px solid black;" src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
-The image above is a small-scale zoom of a Landsat-derived landcover layer of the Rio Negro protected area. It highlights where deforestation has occurred due to urban spillover from the nearby city of Manaus.
 
 ---
 
