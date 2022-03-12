@@ -1,5 +1,5 @@
 ---
 
-Use this link to get here: https://kobriengis.github.io/
+Use this link to reach the site: https://kobriengis.github.io/
 
 ---
