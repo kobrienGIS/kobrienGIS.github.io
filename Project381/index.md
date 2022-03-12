@@ -29,8 +29,6 @@ Map.centerObject(RioNegro,8);
 Map.addLayer(RioNegro, {color: 'tomato'}, 'Rio Negro');
 var ShapeAreasqkm = ('SHP area: ', RioNegro.area().divide(1000 * 1000));
 
-
-
 //  ––––  IMAGE INPUT & CLOUD-SCREENING  ––––
 
 // Cloud-free Composite Year 2000 Landsat 5
@@ -53,8 +51,6 @@ var surfaceReflectanceL8 = ee.ImageCollection('LANDSAT/LC08/C01/T1')
 .filterBounds(RioNegro);
 var compositeLS8 = ee.Algorithms.Landsat.simpleComposite(surfaceReflectanceL8);
 Map.addLayer(compositeLS8, {bands: ['B4', 'B3', 'B2'], max: 128}, 'LS8 Composite 2020');
-
-
 
 //  ––––  VEGETATION HEALTH (NDVI)  ––––
 
@@ -84,8 +80,6 @@ var ndvi = compositeLS8.normalizedDifference(['B5', 'B4']).rename('NDVI');
 var ndviClip3 = ndvi.clip(RioNegro);
 Map.addLayer(ndviClip3, ndviParams, 'LS8 NDVI 2020');
 
-
-
 //  ––––  NDVI STATS  ––––
 
 function NDVIStats (NDVI_image) {
@@ -109,8 +103,6 @@ function NDVIStats (NDVI_image) {
 NDVIStats(ndviClip1)
 NDVIStats(ndviClip2)
 NDVIStats(ndviClip3)
- 
- 
  
 //  ––––  BURN INDEX (NBR)  –––– 
 
@@ -138,8 +130,6 @@ var NBR3 = compositeLS8.normalizedDifference(['B5', 'B7']).rename('NBR');
 var NBR3Clip = NBR3.clip(RioNegro);
 Map.addLayer(NBR3Clip, nbrParams, 'LS8 NBR 2020');
 
-
-
 //  ––––  NBR STATS  ––––
 
 function NBRStats (NBR_image) {
@@ -164,11 +154,9 @@ NBRStats(NBR1Clip)
 NBRStats(NBR2Clip)
 NBRStats(NBR3Clip)
 
-
-
 //  ––––   CLASSIFICATION & LANDCOVER   ––––
-// This section requires manual image classification training data to be created in the form of polygons. These were then exported into GQIS to be converted into point samples within the polygons to cut down on processing requirements.
-
+// This section requires manual image classification training data to be created in the form of polygons. These were 
+// then exported into GQIS to be converted into point samples within the polygons to cut down on processing requirements.
 
 // Training Data (w/ Export to QGIS and Reuploaded Points)
 Export.table.toDrive({
@@ -248,8 +236,6 @@ classified = compositeLS8.select(bands).classify(classifier);
 var Landcover2020 = classified.clip(RioNegro);
 Map.addLayer(Landcover2020, {min: 0, max: 2, palette: ['44c645', '#c60000', '0b4a8b']}, 'LS8 Landcover 2020');
 
-
-
 //  ––––  CLASS STATISTICS  ––––
 
 function ClassStats (class_image, class_type){
@@ -283,11 +269,10 @@ ClassStats(Landcover2000, 2);
 ClassStats(Landcover2010, 2);
 ClassStats(Landcover2020, 2);
 
-
-
 //  ––––  ACCURACY ASSESSMENT  –––– 
-// This section required 'ground truth' point samples for each landcover class based on google's satellite map and export to QGIS to compare these points to the landcover layer to report accuracy. The results were then compiled in tables. 
-
+// This section required 'ground truth' point samples for each landcover class based on google's 
+// satellite map and export to QGIS to compare these points to the landcover layer to report accuracy. 
+// The results of these accuracy assessments were then compiled into data tables for the presentation.
 
 var newfc2 = ForestAcc.merge(NotForestAcc).merge(WaterAcc);
 
@@ -307,7 +292,6 @@ Export.image.toDrive({
   maxPixels: 1e12
 });
 
-
 //  ––––  PROTECTED AREA OUTLINE  ––––
 
 var RioNegro = ee.FeatureCollection('users/kobrien2/RioNegro');
@@ -316,5 +300,3 @@ var RioNegroOutline = RioNegro.style(outline);
 Map.addLayer(RioNegroOutline, outline, 'Protected Area');
 
 ```
-
-
