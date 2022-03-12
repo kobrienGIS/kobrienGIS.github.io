@@ -6,7 +6,7 @@
 
 ## GES  383 – Thematic  Cartography 
 
-### [Baltimore Violent Crime Map](/Project383.2/index)
+**[Baltimore Violent Crime Map](/Project383.2/index)**
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA). <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
