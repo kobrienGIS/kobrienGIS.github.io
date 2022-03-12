@@ -16,7 +16,7 @@ Link to full project in Google Earth Engine –  [https://bit.ly/3pcwbyF](https:
 
 ## Full Project Script:
 
-The entire script that was used to produce the layers in our final product is included below. I am personally credited with writing the sections that provided statistical values for each of the NDVI, NBR, and Landcover layers, as well as implementing the code used to create the Landcover layers themselves. This script only demonstrates the layer creation for the area that I was responsible for studying, however, simply subsituting the area will create these layers for the new area as intended. <br> <br>
+The entire script that was used to produce the layers in our final product is included below. I am personally credited with writing the sections that provided statistical values for each of the NDVI, NBR, and Landcover layers, as well as implementing the code used to create the Landcover layers themselves. This script only demonstrates the layer creation for the area that I was responsible for studying, however, simply subsituting the area will create these layers for the new area as intended. Please note that some sections required additional processing steps to be executed in QGIS. <br> <br>
 
 ```js
 //  ––––  SHAPEFILE UPLOAD  –––– 
