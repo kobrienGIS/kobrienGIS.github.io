@@ -1,9 +1,10 @@
-## Measuring the Efficacy of Government Conservation Efforts on Forest Cover and Health in Protected Areas of the Amazon Rainforest
+# Measuring the Efficacy of Government Conservation Efforts on Forest Cover and Health in Protected Areas of the Amazon Rainforest
 
 [<img style="border:3px solid black;" src="Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](https://bit.ly/3pcwbyF) <br>
 The above image is a zoomed-in look of a Landsat-derived landcover layer of the Rio Negro protected area. It highlights where deforestation has occurred due to urban spillover from the nearby city of Manaus. <br> <br>
 
-**Project description:** <br>
+## Project description: 
+
 This project was a small group project that centered on a curiosity about whether the governments of Brazil, Peru, and Columbia were managing their environmental conservation efforts in the six largest protected areas of the Amazon Rainforest effectively. As part of a remote sensing course, the project utilized Google Earth Engine scripts (coded in JavaScript) to extract and process raw Landsat imagery over three decades of study from 2000 to 2010 to 2020 to look for evidence deforestation by evaluating forest health and cover to assess proper conservation. The Landsat imagery, taken from Landsats 5, 6, and 7, were put through an array of remote sensing analysis techniques. These included NDVI to assess overall vegetation health, NBR to identify burn scars that are indicative of illicit slash and burn agricultural practices, and supervised image classification to create and compare landcover maps throughout the years for evidence of forest cover change. Each team member was responsible for their own protected area and contributed various sections of the code for the final script. <br> <br>
 
 [<img style="border:3px solid black;" src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF) <br>
