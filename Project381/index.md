@@ -2,7 +2,7 @@
 
 <img style="border:3px solid black;" src="Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>
 
-**Project description:** This project was a small group project that centered on a curiosity about whether the governments of Brazil, Peru, and Columbia were managing their environmental protection areas in the Amazon Rainforest effectively. As part of a remote sensing course, the project utilized Google Earth Engine scripts to extract and process raw Landsat imagery over three decades of study from 2000 to 2010 to 2020 to look for evidence of forest health and proper conservation. The Landsat imagery, taken from Landsats 5, 6, and 7, were put through an array of remote sensing analysis techniques including NDVI to assess overall vegetation health, NBR to locate and compare burn scars, and supervised machine learning classification to create and compare landcover maps for evidence of deforestation. 
+**Project description:** This project was a small group project that centered on a curiosity about whether the governments of Brazil, Peru, and Columbia were managing their environmental conservation efforts in the six largest protected areas of the Amazon Rainforest effectively. As part of a remote sensing course, the project utilized Google Earth Engine scripts (coded in JavaScript) to extract and process raw Landsat imagery over three decades of study from 2000 to 2010 to 2020 to look for evidence deforestation by evaluating forest health and cover to assess proper conservation. The Landsat imagery, taken from Landsats 5, 6, and 7, were put through an array of remote sensing analysis techniques. These included NDVI to assess overall vegetation health, NBR to identify burn scars that are indicative of illicit slash and burn agricultural practices, and supervised image classification to create and compare landcover maps throughout the years for evidence of forest cover change. Each team member was responsible for their own protected area and contributed various sections of the code for the final script. 
 
 **Link to presentation slides:** <br>
 [https://bit.ly/3KjZbwo](https://bit.ly/3KjZbwo)
@@ -11,9 +11,11 @@
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
 
 [<img style="border:3px solid black;" src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF)
-This image shows the full extent of the Rio Negro protected area in a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. The entire project can be viewed in the GEE viewer using the link above.
+This shows the full extent of the Rio Negro protected area in a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. I was responsible for this area and it is known to be the largest conservation area in the Amazon with about 120,016.14 square kilometers of rainforest.
 
-## Raw Project Code:
+### Raw Project Code:
+
+The entire script that was used to produce the layers in our final product is included below. I am personally credited with writing the sections that provided statistical values for each of the NDVI, NBR, and Landcover layers, as well as implementing the code used to create the Landcover layers themselves. This script will only demonstrate the layer creation for the area that I was responsible for studying. 
 
 ```js
 //  ––––  SHAPEFILE UPLOAD  –––– 
