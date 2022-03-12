@@ -11,7 +11,7 @@ This project was a small group project that centered on a curiosity about whethe
 This image shows the full extent of the Rio Negro protected area, for which I was responsible, with a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. This area is known to be the largest conservation area in the Amazon, containing about 120,016.14 square kilometers of rainforest and rivers. Rio Negro is also designated a Wetland of International Importance and a World Heritage Site by UNESCO. <br> <br>
 
 **If you are interested, the key findings and results of the study can be found in the presentation below.** <br>
-Link to presentation slides –  [https://bit.ly/3KjZbwo](https://bit.ly/3KjZbwo) <br>
+Link to presentation slides –  [https://bit.ly/3KjZbwo](https://bit.ly/3KjZbwo) <br> <br>
 
 **The interactive final product of this project is viewable in GEE.** <br>
 Link to full project in Google Earth Engine –  [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF) <br> <br>
