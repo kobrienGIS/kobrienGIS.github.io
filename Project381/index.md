@@ -14,7 +14,7 @@ Link to full project in Google Earth Engine –  [https://bit.ly/3pcwbyF](https:
 [<img style="border:3px solid black;" src="RioNegroLarge.png?raw=true"/>](https://bit.ly/3pcwbyF) <br>
 This shows the full extent of the Rio Negro protected area in a clipped NDVI layer that was derived from cloud-filtered and composited Landsat imagery. I was responsible for this area and it is known to be the largest conservation area in the Amazon with about 120,016.14 square kilometers of rainforest and rivers and is designated a Wetland of International Importance and a World Heritage Site by UNESCO. <br> <br>
 
-### Full Project Script:
+## Full Project Script:
 
 The entire script that was used to produce the layers in our final product is included below. I am personally credited with writing the sections that provided statistical values for each of the NDVI, NBR, and Landcover layers, as well as implementing the code used to create the Landcover layers themselves. This script will only demonstrate the layer creation for the area that I was responsible for studying. <br> <br>
 
