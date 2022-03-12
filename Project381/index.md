@@ -10,7 +10,7 @@ This project was a small group project that centered on a curiosity about whethe
 **Link to presentation slides:** <br>
 [https://bit.ly/3KjZbwo](https://bit.ly/3KjZbwo) <br> <br>
 
-**The interactive final product of this project is viewable in Google Earth Engine <br> <br>
+**The interactive final product of this project is viewable in Google Earth Engine** <br> <br>
 
 **Link to full project in Google Earth Engine:** <br>
 [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF)
