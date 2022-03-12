@@ -12,7 +12,7 @@
 
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
-**Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance that had been preserved between Russia, Ukraine, and NATO before the invasion began. <br>
+**Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
 [<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
