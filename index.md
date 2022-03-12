@@ -7,7 +7,7 @@
 ## GES  383 – Thematic Cartography 
 
 **[Baltimore City Violent Crime Map](/Project383.2/index)** <br>
-**Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA). <br>
+**Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
 <br>
@@ -21,7 +21,7 @@
 ## GES  381 – Remote Sensing
 
 **[Amazon Rainforest Environmental Protection Study](/Project381/index)** <br>
-**Description:** A remote sensing study of government accountability with conservation efforts in the largest protected areas within the Amazon Rainforest. <br>
+**Description:** A satellite imagery study of government accountability with conservation efforts in the largest protected areas within the Amazon Rainforest. <br>
 [<img style="border:3px solid black;" src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
