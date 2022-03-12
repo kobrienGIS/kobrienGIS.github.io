@@ -14,7 +14,7 @@ This image shows the full extent of the Rio Negro protected area in a clipped ND
 Link to presentation slides –  [https://bit.ly/3KjZbwo](https://bit.ly/3KjZbwo) <br>
 
 **The interactive final product of this project is viewable in GEE.** <br>
-Link to full project in Google Earth Engine –  [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF) <br>
+Link to full project in Google Earth Engine –  [https://bit.ly/3pcwbyF](https://bit.ly/3pcwbyF) <br> <br>
 
 ## Full Project Script:
 
