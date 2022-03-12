@@ -28,7 +28,7 @@
 
 ## GES  486 – Advanced GIS 
 
-Note: I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or crudely presented. These may also temporarily represent exploratory attempts that are represented here at the request of the professor. <br>
+Note: I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or poorly presented. These may also temporarily represent exploratory attempts that are represented here at the request of the professor. <br>
 
 **[Income-Poverty Ratios in Harford County, Maryland](/Project486.1/index)** <br>
 **Description:** A beginner map rendering of income-poverty ratios in Harford County, MD, produced in RStudio with tidycensus, sf, and leaflet. <br>
