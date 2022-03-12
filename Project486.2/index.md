@@ -1,11 +1,13 @@
-# Baltimore City Relationship between Income and 311 Service Calls (Lab 4 R Markdown)
+# Relationship between Income and 311 Service Calls in Baltimore City (Lab 4)
 
 <img style="border:3px solid black;" src="BCityRelat.png?raw=true"/>
 
-**Project description:** I chose to investigate the relationship between income levels and 311 service calls in Baltimore City Census Tracts in 2019. The following script uses get_acs() to retrieve ACS survey data and reads in a shapefile of counts by polygon for 311 calls from the Baltimore City Government's data portal. ggplot2, ggiraph, and patchwork are used to visualize the maps to hopefully show some sort of visual relationship between the datasets.
+## Project description:
+I chose to investigate the relationship between income levels and 311 service calls in Baltimore City Census Tracts in 2019. The following script uses get_acs() to retrieve ACS survey data and reads in a shapefile of counts by polygon for 311 calls from the Baltimore City Government's data portal. ggplot2, ggiraph, and patchwork are used to visualize the maps to hopefully show some sort of visual relationship between the datasets. <br> <br>
 
-### Project Code
+Unfortunately, the maps do not appear to suggest any obvious visual relationship between the variables. More data manipulations should be carried out to determine the degree of their statistical relationship with each other. <br>
 
+## Project Script:
 ```r
 # Load packages
 library(tidycensus)
@@ -63,7 +65,6 @@ girafe(ggobj = IncomeMap + CallsMap, width_svg = 10, height_svg = 5) %>%
   girafe_options(opts_hover(css = "fill:cyan;"))
 
 ```
-Unfortunately, the maps do not appear to suggest any obvious visual relationship between the variables. More data manipulations should be carried out to determine the degree of their statistical relationship with each other. 
 
 ## Write-up
 
