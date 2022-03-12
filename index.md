@@ -14,14 +14,13 @@ A choropleth map of violent crime rates in Baltimore City using data from the Ba
 **[Political Map of the Russia-Ukraine Crisis:](/Project383/index)** <br>
 A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine (pre-invasion).
 [<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
-I intend to improve this map and possibly create further iterations as events unfold. In the meantime, my heart is with the people of Ukraine.   
 
 ---
 
 ## GES  381 – Remote  Sensing: 
 
 **[Amazon Rainforest Group Remote Sensing Project:](/Project381/index)** <br>
-A remote sensing study of government accountability with conservation efforts in large protected areas within the Amazon Rainforest.
+A remote sensing study of government accountability with conservation efforts in the largest protected areas within the Amazon Rainforest.
 [<img style="border:3px solid black;" src="Project381/Screen Shot 2022-02-14 at 11.14.42 PM.png?raw=true"/>](/Project381/index)
 
 ---
