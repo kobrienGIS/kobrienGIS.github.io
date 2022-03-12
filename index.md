@@ -10,6 +10,7 @@
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data from the Baltimore Neighborhood Indicators Alliance (BNIA). <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
+<br>
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map showcasing the fragile geopolitical balance preserved between Russia and Ukraine before the invasion began. <br>
