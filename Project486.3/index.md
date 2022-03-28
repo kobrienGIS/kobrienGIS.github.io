@@ -72,7 +72,7 @@ ExportMap <- function(mapproduct, filename) {
 }
 ```
 
-Main Code
+Main
 ```r
 # Displays and Exports the map for 1980
 Map1980 <- PlotMap(MapForEachYear("/Users/kyleobrien/Downloads/Project1/FARScsvs/FARS1980.csv"), "1980")
