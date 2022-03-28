@@ -1,11 +1,11 @@
 # Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (Animated GIF)
 
-<img src="P1MotorDeaths.gif?raw=true"/>
+<img style="border:3px solid black;" src="P1MotorDeaths.gif?raw=true"/>
 
 ## Project Description:
 One of the primary issues concerning analyses of U.S. motor vehicle and travel safety is effectively visualizing trends over time. To allow for stable and reliable longitudinal comparison between states, I created a series of maps that display motor vehicle accident fatality rates by state from 1980 to 2020. This study utilized accident report data from all 50 states and D.C. compiled by the NHTSA alongside population data by state kept by the US Census Bureau to calculate rates of total fatalities resulting from traffic accidents normalized by population. Accident fatalities was chosen as the metric because deaths are unlikely to go unreported and do not require additional definition or specification. The maps were created in RStudio with a variety of packages including tigris, sf, dplyr, and ggplot2. The program joins state geographies using tigris with motor vehicle fatality rate data to plot and export the maps with ggplot2. The program also takes advantage of function calls to replicate the maps with five separate CSV inputs for each of the five decades of study. The findings demonstrate that motor vehicle fatality rates have steadily declined across the U.S. from 1980 to 2010, however fatality rates have momentarily increased in 2020. Wyoming, Mississippi, New Mexico, and South Carolina appear to have consistently remained among the most dangerous, while New England, Illinois, Minnesota, Utah, Washington, and Hawaii appear to lead in traffic safety. 
 
-## Project Code:
+## Project Script:
 Packages
 ```{r}
 library(tidycensus)
