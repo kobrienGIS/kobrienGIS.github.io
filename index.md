@@ -31,7 +31,7 @@
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
 **Description:** A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF. <br>
-[<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths?raw=true"/>](/Project486.1/index)
+[<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.3/index)
 
 **[Income-Poverty Ratios in Harford County, Maryland](/Project486.1/index)** <br>
 **Description:** A beginner map rendering of income-poverty ratios in Harford County, MD, produced in RStudio with tidycensus, sf, and leaflet. <br>
