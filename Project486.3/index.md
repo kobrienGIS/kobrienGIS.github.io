@@ -7,7 +7,7 @@ One of the primary issues concerning analyses of U.S. motor vehicle and travel s
 
 ## Project Script:
 Packages
-```{r}
+```r
 library(tidycensus)
 library(tidyverse)
 library(tigris)
@@ -18,7 +18,7 @@ library(viridis)
 ```
 
 Core Functions
-```{r}
+```r
 MapForEachYear <- function(csv) {
   # Data sources: 
   # https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/ 
@@ -73,7 +73,7 @@ ExportMap <- function(mapproduct, filename) {
 ```
 
 Main Code
-```{r}
+```r
 # Displays and Exports the map for 1980
 Map1980 <- PlotMap(MapForEachYear("/Users/kyleobrien/Downloads/Project1/FARScsvs/FARS1980.csv"), "1980")
 Map1980
