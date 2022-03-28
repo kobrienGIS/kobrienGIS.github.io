@@ -29,6 +29,10 @@
 
 **Note:** I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or poorly presented. For the time being, these may also be displayed here at the request of the professor. <br>
 
+**[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
+**Description:** A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF. <br>
+[<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths?raw=true"/>](/Project486.1/index)
+
 **[Income-Poverty Ratios in Harford County, Maryland](/Project486.1/index)** <br>
 **Description:** A beginner map rendering of income-poverty ratios in Harford County, MD, produced in RStudio with tidycensus, sf, and leaflet. <br>
 [<img style="border:3px solid black;" src="Project486.1/Screen Shot 2022-02-21 at 10.09.36 PM.png?raw=true"/>](/Project486.1/index)
