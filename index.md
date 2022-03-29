@@ -6,14 +6,13 @@
 
 ## GES  383 – Thematic Cartography 
 
+[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 **[Baltimore City Violent Crime Map](/Project383.2/index)** <br>
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
-[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
-
+[<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
-[<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
