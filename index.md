@@ -6,13 +6,13 @@
 
 ## GES  383 – Thematic Cartography 
 
-[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 **[Baltimore City Violent Crime Map](/Project383.2/index)** <br>
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
+[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
-[<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
+[<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## GES  486 – Advanced GIS 
 
-**Note:** I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or poorly presented. For the time being, these may also be displayed here at the request of the professor. <br>
+**Note:** I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or poorly presented. Products may also be displayed here at the request of the professor. <br>
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
 **Description:** A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF. <br>
@@ -43,7 +43,7 @@
 
 ---
 
-**Thank you** for viewing my online portfolio! <br>
+**Thank you** for viewing my online portfolio. <br>
 Please feel free to contact me with any questions.
 
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
