@@ -1,4 +1,4 @@
-# Baltimore City Racial Dot-Density Map
+# Washington D.C. Racial Dot-Density Map
 
 <img src="ges383.3.png?raw=true"/>
 
