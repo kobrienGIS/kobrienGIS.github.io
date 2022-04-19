@@ -6,6 +6,10 @@
 
 ## GES  383 – Thematic Cartography 
 
+**[Washington D.C. Racial Dot-Density Map](/Project383.3/index)** <br>
+**Description:** A compound dot-density map depicting population density and distribution of the three largest racial groups in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
+[<img src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
+
 **[Baltimore City Violent Crime Map](/Project383.2/index)** <br>
 **Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
