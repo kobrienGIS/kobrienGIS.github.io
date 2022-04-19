@@ -16,7 +16,7 @@
 
 **[Washington D.C. Racial Dot-Density Map](/Project383.3/index)** <br>
 **Description:** A compound dot-density map depicting population density and distribution of the three largest racial groups in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
-[<img src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
+[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
@@ -34,7 +34,7 @@
 
 ## GES  486 – Advanced GIS 
 
-**Note:** I am currently learning many of the programs and workflows shown here. Products may initially appear unfinished or poorly presented. Products may also be displayed here at the request of the professor. <br>
+**Note:** I am currently learning many of the programs and workflows shown here. Projects may initially appear unfinished and may also be displayed here at the behest of the professor. <br>
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
 **Description:** A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF. <br>
