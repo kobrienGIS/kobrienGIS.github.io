@@ -1,4 +1,3 @@
-**Warning:** This site is still under development.
 
 # Portfolio
 
