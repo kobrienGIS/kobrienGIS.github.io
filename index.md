@@ -41,5 +41,4 @@
 
 ---
 
-Thank you for viewing my online portfolio! <br>
-Please feel free to contact me with any questions.
+Thank you for viewing my online portfolio!
