@@ -42,8 +42,5 @@
 
 ---
 
-**Thank you** for viewing my online portfolio. <br>
+Thank you for viewing my online portfolio! <br>
 Please feel free to contact me with any questions.
-
-<p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
