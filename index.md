@@ -6,13 +6,17 @@
 
 ## GES  383 – Thematic Cartography 
 
+**[Baltimore City Violent Crime Choropleth Map](/Project383.2/index)** <br>
+**Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
+[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
+
+**[Baltimore City Property Crime Proportional Symbols Map](/Project383.4/index)** <br>
+**Description:** A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
+[<img src="Project383.4/Labwk10ges383.1.pdf?raw=true"/>](/Project383.4/index)
+
 **[Washington D.C. Racial Dot-Density Map](/Project383.3/index)** <br>
 **Description:** A compound dot-density map depicting population density and distribution of the three largest racial groups in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
-
-**[Baltimore City Violent Crime Map](/Project383.2/index)** <br>
-**Description:** A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
-[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 **Description:** A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
