@@ -9,15 +9,15 @@
 
 **[Washington D.C. Racial Bivariate Choropleth](/Project383/Project383.5/index)** <br>
 A bivariate choropleth map visualizing the distribution and overlap of predominantly white and black census tracts in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383/Project383.3/FinalRaceMap.pdf?raw=true"/>](/Project383/Project383.5/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalRaceMap-1.png?raw=true"/>](/Project383/Project383.5/index)
 
 **[Washington D.C. Median Household Income Choropleth](/Project383/Project383.6/index)** <br>
 A binned choropleth map visualizing median household income (MHI) in USD by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383/Project383.3/FinalMHIMap.pdf?raw=true"/>](/Project383/Project383.6/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalMHIMap-1.png?raw=true"/>](/Project383/Project383.6/index)
 
 **[Washington D.C. Educational Attainment Choropleth](/Project383/Project383.7/index)** <br>
 A simple choropleth map visualizing the percentage of residents who have attained at least a bachelor's degree by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383/Project383.3/FinalEduMap.pdf?raw=true"/>](/Project383/Project383.7/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalEduMap-1.png?raw=true"/>](/Project383/Project383.7/index)
 
 **[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
