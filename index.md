@@ -1,21 +1,43 @@
 
-# Portfolio
+# GIS Portfolio
 
 ---
 
 ## GES  383 – Thematic Cartography 
 
-**[Baltimore City Violent Crime Choropleth Map](/Project383.2/index)** <br>
-A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
+### Baltimore City
+
+**[Baltimore City Violent Crime Choropleth](/Project383.2/index)** <br>
+A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
 [<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
 
-**[Washington D.C. Racial Dot-Density Map](/Project383.3/index)** <br>
-A compound dot-density map depicting population density and distribution of the three largest racial groups in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
+**[Baltimore City Property Crime Proportional Symbols](/Project383.4/index)** <br>
+A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
+[<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
+
+**[Baltimore City Racial Dot-Density](/Project383.8/index)** <br>
+A compound dot-density map depicting population density and distribution of residents by race in Washington D.C. using data sourced from the U.S. Census Bureau and the Maryland GIS Data Catalog. <br>
+[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.8/index)
+
+### Washington D.C.
+
+**[Washington D.C. Racial Bivariate Choropleth](/Project383.5/index)** <br>
+A bivariate choropleth map visualizing the distribution and overlap of predominantly white and black census tracts in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
+[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.5/index)
+
+**[Washington D.C. Median Household Income Choropleth](/Project383.6/index)** <br>
+A binned choropleth map visualizing median household income (MHI) in USD by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
+[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.6/index)
+
+**[Washington D.C. Educational Attainment Choropleth](/Project383.7/index)** <br>
+A simple choropleth map visualizing the percentage of residents who have attained at least a bachelor's degree by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
+[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.7/index)
+
+**[Washington D.C. Racial Dot-Density](/Project383.3/index)** <br>
+A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
 
-**[Baltimore City Property Crime Proportional Symbols Map](/Project383.4/index)** <br>
-A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland Government. <br>
-[<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
+### International
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
 A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
@@ -33,10 +55,14 @@ A satellite imagery study of government accountability with conservation efforts
 
 ## GES  486 – Advanced GIS 
 
-**Note:** I am currently learning many of the programs and workflows shown here. Projects may initially appear unfinished and may also be displayed here at the behest of the professor. <br>
+**Note:** I am currently learning the programs and workflows contained in this section
+
+**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
+A multi-map time-series project that analyzes a variety of indicators of gentrification and formulates predictions using raster interpolation in RStudio  . <br>
+[<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.4/index)
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
-A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF. <br>
+A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF with maps produced in RStudio. <br>
 [<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.3/index)
 
 **[Income-Poverty Ratios in Harford County, Maryland](/Project486.1/index)** <br>
