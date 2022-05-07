@@ -51,10 +51,10 @@ A satellite imagery study of government accountability with conservation efforts
 
 ## GES  486 – Advanced GIS 
 
-**Note:** I am currently learning the programs and workflows contained in this section
+**Note:** I am currently still exploring many of the programs and techniques displayed here.
 
 **[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
-A multi-map time-series project that analyzes a variety of indicators of gentrification and formulates predictions using raster interpolation in RStudio  . <br>
+A multi-map time-series project that analyzes a variety of indicators of gentrification and formulates predictions using raster interpolation in RStudio. <br>
 [<img style="border:3px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.4/index)
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
