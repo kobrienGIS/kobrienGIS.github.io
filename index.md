@@ -7,37 +7,37 @@
 
 ### Washington D.C.
 
-**[Washington D.C. Racial Bivariate Choropleth](/Project383.5/index)** <br>
+**[Washington D.C. Racial Bivariate Choropleth](/Project383/Project383.5/index)** <br>
 A bivariate choropleth map visualizing the distribution and overlap of predominantly white and black census tracts in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.5/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalRaceMap.pdf?raw=true"/>](/Project383/Project383.5/index)
 
-**[Washington D.C. Median Household Income Choropleth](/Project383.6/index)** <br>
+**[Washington D.C. Median Household Income Choropleth](/Project383/Project383.6/index)** <br>
 A binned choropleth map visualizing median household income (MHI) in USD by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.6/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalMHIMap.pdf?raw=true"/>](/Project383/Project383.6/index)
 
-**[Washington D.C. Educational Attainment Choropleth](/Project383.7/index)** <br>
+**[Washington D.C. Educational Attainment Choropleth](/Project383/Project383.7/index)** <br>
 A simple choropleth map visualizing the percentage of residents who have attained at least a bachelor's degree by census tract in Washington D.C. using data downloaded from the U.S. Census Bureau API with Tidycensus. <br>
-[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.7/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/FinalEduMap.pdf?raw=true"/>](/Project383/Project383.7/index)
 
-**[Washington D.C. Racial Dot-Density](/Project383.3/index)** <br>
+**[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
-[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
+[<img style="border:2px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index)
 
 ### Baltimore City
 
-**[Baltimore City Violent Crime Choropleth](/Project383.2/index)** <br>
+**[Baltimore City Violent Crime Choropleth](/Project383/Project383.2/index)** <br>
 A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
-[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
+[<img src="Project383/Project383.2/Lab3ges383.svg?raw=true"/>](/Project383/Project383.2/index)
 
-**[Baltimore City Property Crime Proportional Symbols](/Project383.4/index)** <br>
+**[Baltimore City Property Crime Proportional Symbols](/Project383/Project383.4/index)** <br>
 A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
-[<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
+[<img src="Project383/Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383/Project383.4/index)
 
 ### International
 
-**[Political Map of the Russia-Ukraine Crisis](/Project383/index)** <br>
+**[Political Map of the Russia-Ukraine Crisis](/Project383/Project383.1/index)** <br>
 A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
-[<img style="border:3px solid black;" src="Project383/ukrainerussiaMAP.svg?raw=true"/>](/Project383/index)
+[<img style="border:3px solid black;" src="Project383/Project383.1/ukrainerussiaMAP.svg?raw=true"/>](/Project383/Project383.1/index)
 
 ---
 
