@@ -5,16 +5,6 @@
 
 ## GES  383 – Thematic Cartography 
 
-### Baltimore City
-
-**[Baltimore City Violent Crime Choropleth](/Project383.2/index)** <br>
-A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
-[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
-
-**[Baltimore City Property Crime Proportional Symbols](/Project383.4/index)** <br>
-A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
-[<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
-
 ### Washington D.C.
 
 **[Washington D.C. Racial Bivariate Choropleth](/Project383.5/index)** <br>
@@ -32,6 +22,16 @@ A simple choropleth map visualizing the percentage of residents who have attaine
 **[Washington D.C. Racial Dot-Density](/Project383.3/index)** <br>
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.3/index)
+
+### Baltimore City
+
+**[Baltimore City Violent Crime Choropleth](/Project383.2/index)** <br>
+A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
+[<img src="Project383.2/Lab3ges383.svg?raw=true"/>](/Project383.2/index)
+
+**[Baltimore City Property Crime Proportional Symbols](/Project383.4/index)** <br>
+A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
+[<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
 
 ### International
 
