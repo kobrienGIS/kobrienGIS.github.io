@@ -7,4 +7,4 @@ This bivariate choropleth map was created in QGIS using 2020 US Census Bureau AC
 
 This map is part of a series that was visualized in a poster on the causes and effects of chronic inequality in Washington D.C. shown here.
 
-<img style="border:2px solid black;" src="FinalRaceMap-1.png?raw=true"/>
+<img style="border:2px solid black;" src="Project383/Project2_383-1.png?raw=true"/>
