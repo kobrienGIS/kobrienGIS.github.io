@@ -15,10 +15,6 @@ A quickly-produced choropleth map of violent crime rates in Baltimore City using
 A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
 [<img src="Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383.4/index)
 
-**[Baltimore City Racial Dot-Density](/Project383.8/index)** <br>
-A compound dot-density map depicting population density and distribution of residents by race in Washington D.C. using data sourced from the U.S. Census Bureau and the Maryland GIS Data Catalog. <br>
-[<img style="border:2px solid black;" src="Project383.3/ges383.3.png?raw=true"/>](/Project383.8/index)
-
 ### Washington D.C.
 
 **[Washington D.C. Racial Bivariate Choropleth](/Project383.5/index)** <br>
