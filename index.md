@@ -21,7 +21,7 @@ A simple choropleth map visualizing the percentage of residents who have attaine
 
 **[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
-[<img style="border:2px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
+[<img src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
 
 ### Baltimore City
 
