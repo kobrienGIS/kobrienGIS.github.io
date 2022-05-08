@@ -53,7 +53,7 @@ A satellite imagery study of government accountability with conservation efforts
 
 **Note:** I am currently still exploring many of the programs and techniques displayed here.
 
-**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
+**[(Placeholder) Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
 A multi-map time-series project that analyzes a variety of indicators of gentrification and formulates predictions using raster interpolation in RStudio. <br>
 [<img style="border:3px solid black;" src="Project486.4/geo.jpeg?raw=true"/>](/Project486.4/index)
 
