@@ -5,6 +5,15 @@
 ## Project Description:
 (Coming Soon) 
 
+Plan:
+- Map of change from 2010 to 2019 in % non-white residents
+- Map of change from 2010 to 2019 in % of bachelors degrees
+- Map of change from 2010 to 2019 in median household income
+- Map of change from 2010 to 2019 in median age
+- Map of change from 2010 to 2019 in median home value
+- Map that synthesizes variables into a Gentrification dataset, using cutoffs like percentiles and arbitrary limits set in prior literature
+- Map that uses centroids from Gentrification dataset then by interpolates into a raster or hexagons for predictions
+
 ## Map 1
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
