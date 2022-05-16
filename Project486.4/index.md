@@ -8,8 +8,9 @@
 Plan:
 - Map of change from 2010 to 2019 in % non-white residents
 - Map of change from 2010 to 2019 in % of bachelors degrees
-- Map of change from 2010 to 2019 in median household income
 - Map of change from 2010 to 2019 in median age
+- Map of change from 2010 to 2019 in per capita income
+- Map of change from 2010 to 2019 in median household income
 - Map of change from 2010 to 2019 in median home value
 - Map that synthesizes variables into a Gentrification dataset, using cutoffs like percentiles and arbitrary limits set in prior literature
 - Map that uses centroids from Gentrification dataset then by interpolates into a raster or hexagons for predictions
@@ -57,6 +58,13 @@ Description:
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 7
+
+<img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
+
+Description:
+Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
+
+## Map 8
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
