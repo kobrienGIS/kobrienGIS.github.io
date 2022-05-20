@@ -1,6 +1,6 @@
 # Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019
 
-<img style="border:1px solid black;" src="GentFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="GentInterpFinalMap.svg?raw=true"/>
 
 ## Project Description:
 This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. Most of the project was completed in RStudio, however the interpolated map needed to be finished in QGIS and the map layouts were finalized in Inkscape.
@@ -73,16 +73,17 @@ After computing each of the variables into a risk-graded classification, several
 
 ## Main Takeaways:
 
-[IGNORE - Not Finished] <br>
+- Several tracts in the central portions of Washington DC likely experienced significant degrees of gentrification
+- Most of the indicators contributed in some way to our understanding of gentrification in Washington DC
+- Overall, wealth increased across Washington DC, although some areas experienced much sharper increases in wealth than others
+- Washington DC attracted more college-educated and higher-income individuals resulting in economic growth likely as a result of gentrification
+- Washington DC experienced significant levels of racial displacement likely as a result of gentrification
 
-- Donec id ullamcorper mi
-- Aenean volutpat egestas nulla sed pulvinar
-- Vivamus vitae fringilla tortor
-- Curabitur neque diam, ultricies ut dui ac, accumsan dictum orci
+Our analysis of known indicators of gentrification in Washington DC from 2010 to 2019 produced a range of results consistent with earlier studies of gentrification. All of the indicators predicted at least some degree of gentrification across the 9 year period. When combined, the output risk classification map yielded a useful visualization of where gentrification most likely occurred. The IDW interpolation analysis added to this by produceing a spatial prediction map that expanded these findings across census tracts in a more natural manner. Models like the one this analysis produced will prove instrumental in predicting gentrification in the future and in different cities. 
 
-Mauris efficitur vel nulla ac ullamcorper. Morbi sit amet ipsum ex. Pellentesque consectetur massa mi, consectetur porttitor enim tincidunt eget. Morbi ipsum nisl, rhoncus posuere velit eu, commodo rhoncus ligula. Phasellus id elit nulla. Mauris iaculis congue justo, sit amet finibus libero suscipit vitae. Cras vel congue massa, rutrum volutpat ante. Vestibulum accumsan convallis lacus et ultrices. Nunc convallis imperdiet risus eu feugiat. Suspendisse id dignissim magna. Nam non lacus facilisis, cursus erat non, euismod risus. Proin id dignissim nibh.
+## Sources and Referrences
 
-Duis posuere pharetra sapien. Etiam sodales ligula gravida neque varius, vel sodales lorem elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget viverra tortor. Pellentesque bibendum elementum lectus, eu consectetur ipsum vehicula id. In consectetur eros quis placerat tincidunt. Curabitur congue risus in arcu euismod efficitur. Sed porta iaculis nisl, ac laoreet nisi.
+
 
 ---
 
@@ -322,63 +323,55 @@ GentData <- function(dataset) {
   #       60%       75%       90% 
   # 0.1234288 0.1818144 0.2672396 
   gentvars <- gentvars %>% 
-    mutate(bachclass = case_when(bachdiff >= 0.2672396 ~ "3",
+    mutate(bachclass = as.numeric(case_when(bachdiff >= 0.2672396 ~ "3",
                                  bachdiff >= 0.1818144 ~ "2",
                                  bachdiff >= 0.1234288 ~ "1",
-                                 TRUE ~ "0"))
+                                 TRUE ~ "0")))
   # Non White Residents
   quantile(gentvars$nonwhitediff, probs = c(.10, .25, .40))
   #         10%         25%         40% 
   # -0.21654861 -0.13507000 -0.07031094
   gentvars <- gentvars %>% 
-    mutate(nonwhiteclass = case_when(nonwhitediff <= -0.21654861 ~ "3",
+    mutate(nonwhiteclass = as.numeric(case_when(nonwhitediff <= -0.21654861 ~ "3",
                                  nonwhitediff <= -0.13507000 ~ "2",
                                  nonwhitediff <= -0.07031094 ~ "1",
-                                 TRUE ~ "0"))
+                                 TRUE ~ "0")))
   # Median Age
   quantile(gentvars$agediff, probs = c(.10, .25, .40)) 
   #   10%   25%   40% 
   # -6.96 -3.70 -1.30 
   gentvars <- gentvars %>% 
-    mutate(ageclass = case_when(agediff <= -6.96 ~ "3",
+    mutate(ageclass = as.numeric(case_when(agediff <= -6.96 ~ "3",
                                  agediff <= -3.70 ~ "2",
                                  agediff <= -1.30 ~ "1",
-                                 TRUE ~ "0"))
+                                 TRUE ~ "0")))
   # Per Capita Income
   quantile(gentvars$incomediff, probs = c(.60, .75, .90))
   #     60%     75%     90% 
   # 16223.8 21704.0 30080.8  
   gentvars <- gentvars %>% 
-    mutate(incomeclass = case_when(incomediff >= 30080.8 ~ "3",
+    mutate(incomeclass = as.numeric(case_when(incomediff >= 30080.8 ~ "3",
                                  incomediff >= 21704.0 ~ "2",
                                  incomediff >= 16223.8 ~ "1",
-                                 TRUE ~ "0"))
+                                 TRUE ~ "0")))
   # Median Household Income
   quantile(gentvars$mhidiff, probs = c(.60, .75, .90))
   #     60%     75%     90% 
   # 34549.0 43710.0 54770.6  
   gentvars <- gentvars %>% 
-    mutate(mhiclass = case_when(mhidiff >= 54770.6 ~ "3",
+    mutate(mhiclass = as.numeric(case_when(mhidiff >= 54770.6 ~ "3",
                                  mhidiff >= 43710.0 ~ "2",
                                  mhidiff >= 34549.0 ~ "1",
-                                 TRUE ~ "0"))
+                                 TRUE ~ "0")))
   # Median Home Value
   quantile(gentvars$valuediff, probs = c(.60, .75, .90))
   #    60%    75%    90% 
   # 149480 196200 255260  
   gentvars <- gentvars %>% 
-    mutate(valueclass = case_when(valuediff >= 255260 ~ "3",
+    mutate(valueclass = as.numeric(case_when(valuediff >= 255260 ~ "3",
                                  valuediff >= 196200 ~ "2",
                                  valuediff >= 149480 ~ "1",
-                                 TRUE ~ "0"))
-  
-  # Converts each field to type numeric
-  gentvars$bachclass <- as.numeric(gentvars$bachclass)
-  gentvars$nonwhiteclass <- as.numeric(gentvars$nonwhiteclass)
-  gentvars$ageclass <- as.numeric(gentvars$ageclass)
-  gentvars$incomeclass <- as.numeric(gentvars$incomeclass)
-  gentvars$mhiclass <- as.numeric(gentvars$mhiclass)
-  gentvars$valueclass <- as.numeric(gentvars$valueclass)
+                                 TRUE ~ "0")))
 
   # Adds each class variable together and uses thresholds to create an overall classification scheme
   gentvars <- gentvars %>% 
