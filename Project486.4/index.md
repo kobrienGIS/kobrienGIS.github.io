@@ -98,7 +98,6 @@ Literature:
 title: "Gentrification"
 author: "Kyle O'Brien"
 date: '2022-05-20'
-output: html_document
 
 ### Prep
 
