@@ -484,7 +484,7 @@ MapGentri <- GentMap(GentData(varsJoined))
 MapGentri
 ExportMaps(MapGentri, "FinalGentMap.svg")
 
-# Not Functional
+# Currently Not Functional
 # Displays and Exports a raster-interpolated Gentrification map based on centroids
 MapInterp <- InterpMap(GentData(varsJoined))
 MapInterp
