@@ -1,4 +1,4 @@
-# Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019 (Unfinished)
+# Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
