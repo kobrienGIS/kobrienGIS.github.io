@@ -5,10 +5,10 @@
 ## Project Description:
 (Coming Soon) 
 
-Project Goal:
+## Project Goal:
 Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes in indicators of gentrification over time to assess and predict the risk of gentrification across census tracts in Washington DC.  
 
-Project Plan:
+## Project Plan:
 - Map of change from 2010 to 2019 in % of Bachelors Degrees
 - Map of change from 2010 to 2019 in % Non-White Residents
 - Map of change from 2010 to 2019 in Median Age
@@ -22,56 +22,56 @@ Project Plan:
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius imperdiet erat quis tincidunt. Nam dignissim ex quis hendrerit imperdiet. Aliquam ultrices velit turpis, ac bibendum libero facilisis at. In hac habitasse platea dictumst. Sed dolor est, volutpat a ipsum sit amet, aliquam tincidunt risus.
 
 ## Map 2: Race 
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Nullam a lectus vel lorem egestas blandit. Donec a eleifend sapien, non efficitur ex. Integer euismod dui facilisis, finibus nunc iaculis, cursus sapien. Sed mollis quam vitae ex condimentum, non elementum urna efficitur. Proin ac nisi turpis. In hac habitasse platea dictumst. Mauris vel eros nibh.
 
 ## Map 3: Age
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 raesent a ornare nulla, sit amet auctor dolor. Praesent fermentum nunc odio, eu ornare elit lobortis sed. Cras nulla nibh, malesuada non pulvinar eu, ornare id lacus. Morbi dictum gravida lectus in gravida. Nunc suscipit ligula non dolor faucibus sollicitudin.
 
 ## Map 4: Personal Income
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 5: Household Income
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 6: Home Value
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 7: Gentrification Risk
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 8: Predicted Gentrification
 
 <img style="border:3px solid black;" src="geo.jpeg?raw=true"/>
 
-Description:
+Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Main Takeaways:
@@ -94,7 +94,7 @@ date: '2022-05-02'
 output: html_document
 ---
 
-# Prep
+### Prep
 
 Packages
 ```r
@@ -196,7 +196,7 @@ varsJoined <- varsJoined %>% mutate(mhidiff = mhiE.y - mhiE.x)
 varsJoined <- varsJoined %>% mutate(valuediff = valueE.y - valueE.x)
 ```
 
-# Functions
+### Functions
 
 Map Visualization
 ```r
@@ -442,7 +442,7 @@ ExportMaps <- function(mapproduct, filename) {
 }
 ```
 
-# Main
+### Main
 
 ```r
 # Displays and Exports the change map for % of Bachelors Degrees
