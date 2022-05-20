@@ -1,6 +1,6 @@
 # Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019
 
-<img style="border:3px solid black;" src="GentMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="GentMap2.svg?raw=true"/>
 
 ## Project Description:
 (Coming Soon) 
