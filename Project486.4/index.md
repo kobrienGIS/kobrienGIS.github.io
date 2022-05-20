@@ -94,15 +94,12 @@ Literature:
 ---
 
 ## Project Script:
-
-title: "Gentrification"
-author: "Kyle O'Brien"
+title: "Gentrification" <br>
+author: "Kyle O'Brien" <br>
 date: '2022-05-20'
 
-### Prep
-
 Packages
-```{r}
+```r
 library(tidycensus)
 library(tidyverse)
 library(dplyr)
@@ -118,8 +115,8 @@ library(raster)
 library(maptools)
 ```
 
-Data generation with Censusapi calls
-```{r}
+Data generation with censusapi calls
+```r
 # Variables for 2010, start of time-series
 vars2010 <- get_acs(
   geography = "tract",
@@ -439,8 +436,7 @@ ExportMaps <- function(mapproduct, filename) {
 }
 ```
 
-### Main
-
+Main code
 ```r
 # Displays and Exports the change map for % of Bachelors Degrees
 MapBachelors <- EduMap(varsJoined)
