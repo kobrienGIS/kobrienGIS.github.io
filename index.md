@@ -7,7 +7,7 @@
 
 **[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
 A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
-[<img style="border:3px solid black;" src="Project486.4/GentMap2.svg?raw=true"/>](/Project486.4/index)
+[<img style="border:3px solid black;" src="Project486.4/GentFinalMap.svg?raw=true"/>](/Project486.4/index)
 
 ---
 
@@ -63,7 +63,7 @@ A satellite imagery study of government accountability with conservation efforts
 
 **[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
 A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
-[<img style="border:3px solid black;" src="Project486.4/GentMap2.svg?raw=true"/>](/Project486.4/index)
+[<img style="border:3px solid black;" src="Project486.4/GentFinalMap.svg?raw=true"/>](/Project486.4/index)
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
 A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF with maps produced in RStudio. <br>
