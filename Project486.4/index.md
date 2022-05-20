@@ -3,7 +3,7 @@
 <img style="border:1px solid black;" src="GentFinalMap.svg?raw=true"/>
 
 ## Project Description:
-This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. 
+This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. Most of the project was completed in RStudio, however the interpolated map needed to be finished in QGIS and the map layouts were finalized in Inkscape.
 
 ## Project Goal:
 Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes in indicators of gentrification over time to assess and predict the risk of gentrification across census tracts in Washington DC.  
@@ -43,29 +43,29 @@ Here we see that between 2010 and 2019 there was a large range of changes in med
 
 <img style="border:1px solid black;" src="IncomeFinalMap.svg?raw=true"/>
 
-Description: <br>
-Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
+Observations: <br>
+Per capita income largely increased across DC, as is normally expected. However, several tracts in the city's center experienced sharp increases of upwards of $40,000, potentially indicating a positive shift in residents with high income in these areas. 
 
 ## Map 5: Household Income
 
 <img style="border:1px solid black;" src="MHIFinalMap.svg?raw=true"/>
 
-Description: <br>
-Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
+Observations: <br>
+Median household income (MHI) is often regarded as one of the most important indicators of gentrification. Here we can see that several tracts experienced sharp increases in MHI upwards of $60,000, most likely indicating areas that have recently attracted high-income families.
 
 ## Map 6: Home Value
 
 <img style="border:1px solid black;" src="ValueFinalMap.svg?raw=true"/>
 
-Description: <br>
-Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
+Observations: <br>
+As the final variable included in this analysis, median home value provides another useful indicator of gentrification. Several tracts in the city center can be seen having large increases in median home value upwards of $300,000. Note, this data range has a few outliers. 
 
 ## Map 7: Gentrification Risk
 
 <img style="border:1px solid black;" src="GentFinalMap.svg?raw=true"/>
 
-Description: <br>
-Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
+Observations: <br>
+After computing each of the variables into a risk-graded classification, several tracts in the center appear to have experienced gentrification based on the previous indicators. Overall, gentrification appears to be concentrated in the center of DC and in the census tracts surrounding Capitol Hill. One thing to note is that there were several areas with potential false positives, particularly in the west. 
 
 ## Map 8: Predicted Gentrification
 
@@ -76,6 +76,7 @@ Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gr
 
 ## Main Takeaways:
 
+[IGNORE]
 - Donec id ullamcorper mi
 - Aenean volutpat egestas nulla sed pulvinar
 - Vivamus vitae fringilla tortor
