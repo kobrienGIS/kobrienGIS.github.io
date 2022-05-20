@@ -36,8 +36,8 @@ From 2010 to 2019 we can see here that the percentage of non-white residents dec
 
 <img style="border:1px solid black;" src="AgeFinalMap.svg?raw=true"/>
 
-Description: <br>
-raesent a ornare nulla, sit amet auctor dolor. Praesent fermentum nunc odio, eu ornare elit lobortis sed. Cras nulla nibh, malesuada non pulvinar eu, ornare id lacus. Morbi dictum gravida lectus in gravida. Nunc suscipit ligula non dolor faucibus sollicitudin.
+Observations: <br>
+Here we see that between 2010 and 2019 there was a large range of changes in median age of residents across DC. Notably, many central and eastern census tracts experienced sharp decreases in median age, while more tracts around the periphery experienced sharp rises. As for gentrification, this data is inconclusive. 
 
 ## Map 4: Personal Income
 
