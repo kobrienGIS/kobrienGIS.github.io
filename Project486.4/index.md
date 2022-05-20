@@ -3,7 +3,7 @@
 <img style="border:3px solid black;" src="GentMap2.svg?raw=true"/>
 
 ## Project Description:
-(Coming Soon) 
+This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. 
 
 ## Project Goal:
 Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes in indicators of gentrification over time to assess and predict the risk of gentrification across census tracts in Washington DC.  
