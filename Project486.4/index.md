@@ -79,7 +79,7 @@ After computing each of the variables into a risk-graded classification, several
 - Washington DC attracted more college-educated and higher-income individuals resulting in economic growth likely as a result of gentrification
 - Washington DC experienced significant levels of racial displacement likely as a result of gentrification
 
-Our analysis of known indicators of gentrification in Washington DC from 2010 to 2019 produced a range of results consistent with earlier studies of gentrification. All of the indicators predicted at least some degree of gentrification across the 9 year period. When combined, the output risk classification map yielded a useful visualization of where gentrification most likely occurred. The IDW interpolation analysis added to this by produceing a spatial prediction map that expanded these findings across census tracts in a more natural manner. Models like the one this analysis produced will prove instrumental in predicting gentrification in the future and in different cities. 
+Our analysis of known indicators of gentrification in Washington DC from 2010 to 2019 produced a range of results consistent with earlier studies of gentrification. All of the indicators predicted at least some degree of gentrification across the 9 year period. When combined, the output risk classification map yielded a useful visualization of where gentrification most likely occurred. The IDW interpolation analysis added to this by produceing a spatial prediction map that expanded these findings across census tracts in a more natural manner. Predictive models like the one this analysis produced may prove instrumental in estimating and assessing gentrification in the future. 
 
 ## Sources and Referrences
 Data: <br>
