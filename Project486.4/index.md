@@ -1,6 +1,6 @@
 # Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019
 
-<img style="border:3px solid black;" src="GentFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="GentFinalMap.svg?raw=true"/>
 
 ## Project Description:
 This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. 
@@ -20,56 +20,56 @@ Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes i
 
 ## Map 1: Education
 
-<img style="border:3px solid black;" src="BachFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="BachFinalMap.svg?raw=true"/>
 
 Description: <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius imperdiet erat quis tincidunt. Nam dignissim ex quis hendrerit imperdiet. Aliquam ultrices velit turpis, ac bibendum libero facilisis at. In hac habitasse platea dictumst. Sed dolor est, volutpat a ipsum sit amet, aliquam tincidunt risus.
 
 ## Map 2: Race 
 
-<img style="border:3px solid black;" src="NWFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="NWFinalMap.svg?raw=true"/>
 
 Description: <br>
 Nullam a lectus vel lorem egestas blandit. Donec a eleifend sapien, non efficitur ex. Integer euismod dui facilisis, finibus nunc iaculis, cursus sapien. Sed mollis quam vitae ex condimentum, non elementum urna efficitur. Proin ac nisi turpis. In hac habitasse platea dictumst. Mauris vel eros nibh.
 
 ## Map 3: Age
 
-<img style="border:3px solid black;" src="AgeFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="AgeFinalMap.svg?raw=true"/>
 
 Description: <br>
 raesent a ornare nulla, sit amet auctor dolor. Praesent fermentum nunc odio, eu ornare elit lobortis sed. Cras nulla nibh, malesuada non pulvinar eu, ornare id lacus. Morbi dictum gravida lectus in gravida. Nunc suscipit ligula non dolor faucibus sollicitudin.
 
 ## Map 4: Personal Income
 
-<img style="border:3px solid black;" src="IncomeFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="IncomeFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 5: Household Income
 
-<img style="border:3px solid black;" src="MHIFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="MHIFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 6: Home Value
 
-<img style="border:3px solid black;" src="ValueFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="ValueFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 7: Gentrification Risk
 
-<img style="border:3px solid black;" src="GentFinalMap.svg?raw=true"/>
+<img style="border:1px solid black;" src="GentFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 8: Predicted Gentrification
 
-<img style="border:3px solid black;" src="486FinalIDW.svg?raw=true"/>
+<img style="border:1px solid black;" src="GentInterpFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
