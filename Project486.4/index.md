@@ -48,7 +48,7 @@ Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gr
 
 ## Map 5: Household Income
 
-<img style="border:3px solid black;" src="MhiMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="MHIMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
@@ -62,7 +62,7 @@ Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gr
 
 ## Map 7: Gentrification Risk
 
-<img style="border:3px solid black;" src="GentMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="GentMap2.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
