@@ -69,7 +69,7 @@ Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gr
 
 ## Map 8: Predicted Gentrification
 
-<img style="border:3px solid black;" src="486IDW.svg?raw=true"/>
+<img style="border:3px solid black;" src="486FinalIDW.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
