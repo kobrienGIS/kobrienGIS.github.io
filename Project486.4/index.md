@@ -82,8 +82,14 @@ After computing each of the variables into a risk-graded classification, several
 Our analysis of known indicators of gentrification in Washington DC from 2010 to 2019 produced a range of results consistent with earlier studies of gentrification. All of the indicators predicted at least some degree of gentrification across the 9 year period. When combined, the output risk classification map yielded a useful visualization of where gentrification most likely occurred. The IDW interpolation analysis added to this by produceing a spatial prediction map that expanded these findings across census tracts in a more natural manner. Models like the one this analysis produced will prove instrumental in predicting gentrification in the future and in different cities. 
 
 ## Sources and Referrences
+Data: <br>
+- U.S. Census Bureau 5-year American Community Surveys for 2010 and 2019
 
-
+Literature:
+- Lang, Marissa J. “Gentrification in D.C. Means Widespread Displacement, Study Finds.” The Washington Post, WP Company, 27 Apr. 2019, https://www.washingtonpost.com/local/in-the-district-gentrification-means-widespread-displacement-report-says/2019/04/26/950a0c00-6775-11e9-8985-4cf30147bdca_story.html. 
+- Preis, Benjamin, et al. “Mapping Gentrification and Displacement Pressure: An Exploration of Four Distinct Methodologies.” Urban Studies (Sage Publications, Ltd.), vol. 58, no. 2, Feb. 2021, pp. 405–24. EBSCOhost, https://doi.org/10.1177/0042098020903011.
+- Richardson, Jason, et al. “Shifting Neighborhoods: Gentrification and Cultural Displacement in American Cities.” NCRC, 8 Mar. 2022, https://ncrc.org/gentrification/. 
+- “Detecting Gentrification in Washington DC.” RPubs, Tidy Insights, https://api.rpubs.com/Tidy_Insights/fgproject. 
 
 ---
 
