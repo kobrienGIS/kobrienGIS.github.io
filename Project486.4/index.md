@@ -20,7 +20,7 @@ Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes i
 
 ## Map 1: Education
 
-<img style="border:3px solid black;" src="BachelorsMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="BachFinalMap.svg?raw=true"/>
 
 Description: <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius imperdiet erat quis tincidunt. Nam dignissim ex quis hendrerit imperdiet. Aliquam ultrices velit turpis, ac bibendum libero facilisis at. In hac habitasse platea dictumst. Sed dolor est, volutpat a ipsum sit amet, aliquam tincidunt risus.
@@ -34,28 +34,28 @@ Nullam a lectus vel lorem egestas blandit. Donec a eleifend sapien, non efficitu
 
 ## Map 3: Age
 
-<img style="border:3px solid black;" src="AgeMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="AgeFinalMap.svg?raw=true"/>
 
 Description: <br>
 raesent a ornare nulla, sit amet auctor dolor. Praesent fermentum nunc odio, eu ornare elit lobortis sed. Cras nulla nibh, malesuada non pulvinar eu, ornare id lacus. Morbi dictum gravida lectus in gravida. Nunc suscipit ligula non dolor faucibus sollicitudin.
 
 ## Map 4: Personal Income
 
-<img style="border:3px solid black;" src="IncomeMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="IncomeFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 5: Household Income
 
-<img style="border:3px solid black;" src="MHIMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="MHIFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
 
 ## Map 6: Home Value
 
-<img style="border:3px solid black;" src="ValueMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="ValueFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
