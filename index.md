@@ -3,6 +3,14 @@
 
 ---
 
+## Featured Project
+
+**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
+A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
+[<img style="border:3px solid black;" src="Project486.4/geo.jpeg?raw=true"/>](/Project486.4/index)
+
+---
+
 ## GES  383 – Thematic Cartography 
 
 ### Washington D.C.
@@ -53,8 +61,8 @@ A satellite imagery study of government accountability with conservation efforts
 
 **Note:** I am currently still exploring many of the programs and techniques displayed here.
 
-**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019 (Placeholder)](/Project486.4/index)** <br>
-A multi-map time-series project that analyzes a variety of indicators of gentrification and formulates predictions using raster interpolation in RStudio. <br>
+**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
+A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
 [<img style="border:3px solid black;" src="Project486.4/geo.jpeg?raw=true"/>](/Project486.4/index)
 
 **[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
