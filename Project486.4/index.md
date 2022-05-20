@@ -22,15 +22,15 @@ Use tidycensus and variables from the 2010 and 2019 ACS surveys to map changes i
 
 <img style="border:1px solid black;" src="BachFinalMap.svg?raw=true"/>
 
-Description: <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius imperdiet erat quis tincidunt. Nam dignissim ex quis hendrerit imperdiet. Aliquam ultrices velit turpis, ac bibendum libero facilisis at. In hac habitasse platea dictumst. Sed dolor est, volutpat a ipsum sit amet, aliquam tincidunt risus.
+Observations: <br>
+From 2010 to 2019 we can see that the percentage of residents with at least a bachelors degree increased across most areas in DC. Particularly noticeable are several census tracts in the center that experienced sharp increases (30–50%) in residents with college education, possibly indicating gentrification. 
 
 ## Map 2: Race 
 
 <img style="border:1px solid black;" src="NWFinalMap.svg?raw=true"/>
 
-Description: <br>
-Nullam a lectus vel lorem egestas blandit. Donec a eleifend sapien, non efficitur ex. Integer euismod dui facilisis, finibus nunc iaculis, cursus sapien. Sed mollis quam vitae ex condimentum, non elementum urna efficitur. Proin ac nisi turpis. In hac habitasse platea dictumst. Mauris vel eros nibh.
+Observations: <br>
+From 2010 to 2019 we can see here that the percentage of non-white residents decreased across most census tracts in the center to the northeast of DC, while percentages rose slightly in the west. Another strong indicator of gentrification in DC is displacement of minorities, this shows that many non-white individuals and families left central DC (generally 20–40%) over the 9 year timeframe.  
 
 ## Map 3: Age
 
