@@ -85,14 +85,14 @@ Mauris efficitur vel nulla ac ullamcorper. Morbi sit amet ipsum ex. Pellentesque
 
 Duis posuere pharetra sapien. Etiam sodales ligula gravida neque varius, vel sodales lorem elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget viverra tortor. Pellentesque bibendum elementum lectus, eu consectetur ipsum vehicula id. In consectetur eros quis placerat tincidunt. Curabitur congue risus in arcu euismod efficitur. Sed porta iaculis nisl, ac laoreet nisi.
 
+---
+
 ## Project Script:
 
----
 title: "Gentrification"
 author: "Kyle O'Brien"
 date: '2022-05-20'
 output: html_document
----
 
 ### Prep
 
