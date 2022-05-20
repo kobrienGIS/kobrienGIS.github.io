@@ -1,6 +1,6 @@
 # Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019
 
-<img style="border:3px solid black;" src="GentMap2.svg?raw=true"/>
+<img style="border:3px solid black;" src="GentFinalMap.svg?raw=true"/>
 
 ## Project Description:
 This project was a multi-map time series analysis with several census variable indicators of gentrification in Washington DC census tracts. Each indicator was mapped in a change map from 2010 to 2019 and each indicator was eventually factored into an overall gentrification risk map. The risk map was also then interpolated to expand spatial predictions of gentrification risk levels to the rest of Washington DC. 
@@ -62,7 +62,7 @@ Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gr
 
 ## Map 7: Gentrification Risk
 
-<img style="border:3px solid black;" src="GentMap2.svg?raw=true"/>
+<img style="border:3px solid black;" src="GentFinalMap.svg?raw=true"/>
 
 Description: <br>
 Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
