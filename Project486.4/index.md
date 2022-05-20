@@ -67,16 +67,14 @@ As the final variable included in this analysis, median home value provides anot
 Observations: <br>
 After computing each of the variables into a risk-graded classification, several tracts in the center appear to have experienced gentrification based on the previous indicators. Overall, gentrification appears to be concentrated in the center of DC and in the census tracts surrounding Capitol Hill. One thing to note is that there were several areas with potential false positives, particularly in the west. 
 
-## Map 8: Predicted Gentrification
+## Map 8: Interpolated Gentrification
 
 <img style="border:1px solid black;" src="GentInterpFinalMap.svg?raw=true"/>
 
-Description: <br>
-Curabitur dapibus gravida neque et vehicula. Nam pulvinar odio et eros luctus gravida. Integer ac varius elit. Aliquam facilisis velit at leo tempor vehicula.
-
 ## Main Takeaways:
 
-[IGNORE]
+[IGNORE - Not Finished] <br>
+
 - Donec id ullamcorper mi
 - Aenean volutpat egestas nulla sed pulvinar
 - Vivamus vitae fringilla tortor
