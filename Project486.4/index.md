@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius imperdi
 
 ## Map 2: Race 
 
-<img style="border:3px solid black;" src="NWhiteFinalMap.svg?raw=true"/>
+<img style="border:3px solid black;" src="NWFinalMap.svg?raw=true"/>
 
 Description: <br>
 Nullam a lectus vel lorem egestas blandit. Donec a eleifend sapien, non efficitur ex. Integer euismod dui facilisis, finibus nunc iaculis, cursus sapien. Sed mollis quam vitae ex condimentum, non elementum urna efficitur. Proin ac nisi turpis. In hac habitasse platea dictumst. Mauris vel eros nibh.
