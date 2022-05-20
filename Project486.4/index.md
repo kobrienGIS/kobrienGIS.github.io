@@ -90,7 +90,7 @@ Duis posuere pharetra sapien. Etiam sodales ligula gravida neque varius, vel sod
 ---
 title: "Gentrification"
 author: "Kyle O'Brien"
-date: '2022-05-02'
+date: '2022-05-20'
 output: html_document
 ---
 
@@ -211,6 +211,7 @@ EduMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in % of \nBachelors Degrees",
           title = "College Education in Washington DC \nfrom 2010 to 2019")
   
@@ -229,6 +230,7 @@ RaceMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in % of \nNon-White Residents",
           title = "Racial Displacement in Washington DC \nfrom 2010 to 2019")
   
@@ -247,6 +249,7 @@ AgeMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in Median \nAge (in years)",
           title = "Median Age of Residents in \nWashington DC from 2010 to 2019")
   
@@ -266,6 +269,7 @@ IncomeMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in Per \nCapita Income (in USD)",
           title = "Per Capita Income in Washington DC \nfrom 2010 to 2019")
   
@@ -284,6 +288,7 @@ MhiMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in \nMHI (in USD)",
           title = "Median Household Income (MHI) in \nWashington DC from 2010 to 2019")
   
@@ -303,6 +308,7 @@ ValueMap <- function(dataset) {
       theme(text = element_text(size = 12, family = "mono")) +
       theme(plot.title = element_text(hjust = 0.5)) +
       theme(legend.key.height = unit(1, 'cm')) +
+      theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
       labs(fill = "Difference in Median \nHome Value (in USD)",
           title = "Median Home Value in Washington DC \nfrom 2010 to 2019")
   
@@ -409,6 +415,7 @@ GentMap <- function(dataset) {
     theme(text = element_text(size = 12, family = "mono")) +
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(legend.key.height = unit(1, 'cm')) +
+    theme(plot.margin = unit(c(1, 1, 1, 1), "cm")) +
     labs(fill = "Gentrification Risk",
          title = "Gentrification in Washington DC \nfrom 2010 to 2019") +
     geom_sf(fill = NA, color = alpha("black", 1 / 2), size = 0.25)
@@ -484,10 +491,12 @@ MapGentri <- GentMap(GentData(varsJoined))
 MapGentri
 ExportMaps(MapGentri, "FinalGentMap.svg")
 
-# Currently Not Functional
+# Not Functional
 # Displays and Exports a raster-interpolated Gentrification map based on centroids
 MapInterp <- InterpMap(GentData(varsJoined))
 MapInterp
 ExportMaps(MapInterp, "InterpMap.svg")
 ```
+
+
 
