@@ -102,7 +102,7 @@ date: '2022-05-20'
 ### Prep
 
 Packages
-```r
+```{r}
 library(tidycensus)
 library(tidyverse)
 library(dplyr)
@@ -119,7 +119,7 @@ library(maptools)
 ```
 
 Data generation with Censusapi calls
-```r
+```{r}
 # Variables for 2010, start of time-series
 vars2010 <- get_acs(
   geography = "tract",
