@@ -37,7 +37,7 @@ A compound dot-density map depicting population density and distribution of the 
 
 ### Maryland
 
-**[Who Should Lead the GOP? Election Analysis](/Project383.8/index)** <br>
+**[Election Analysis: Who Should Lead the GOP?](/Project383.8/index)** <br>
 A multi-map time-series analysis of Donald Trump and Larry Hogan's election perfomance in Maryland's previous Presidential and Gubernatorial elections. <br>
 [<img style="border:2px solid black;" src="Project383.8/GES_383_Final.svg?raw=true"/>](/Project383.8/index)
 
