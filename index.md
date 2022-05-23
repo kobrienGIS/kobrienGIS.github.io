@@ -9,7 +9,7 @@
 A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
 [<img style="border:2px solid black;" src="Project486.4/GentFinalMap.svg?raw=true"/>](/Project486.4/index)
 
-**[Who Should Lead the GOP? Election Analysis](/Project383.8/index)** <br>
+**[Election Analysis: Who Should Lead the GOP?](/Project383.8/index)** <br>
 A multi-map time-series analysis of Donald Trump and Larry Hogan's election perfomance in Maryland's previous Presidential and Gubernatorial elections. <br>
 [<img style="border:2px solid black;" src="Project383.8/GES_383_Final.svg?raw=true"/>](/Project383.8/index)
 
