@@ -3,11 +3,15 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
 **[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
 A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
 [<img style="border:2px solid black;" src="Project486.4/GentFinalMap.svg?raw=true"/>](/Project486.4/index)
+
+**[Who Should Lead the GOP? Election Analysis](/Project383.8/index)** <br>
+A multi-map time-series analysis of Donald Trump and Larry Hogan's election perfomance in Maryland's previous Presidential and Gubernatorial elections. <br>
+[<img style="border:2px solid black;" src="Project383.8/GES_383_Final.svg?raw=true"/>](/Project383.8/index)
 
 ---
 
@@ -31,7 +35,11 @@ A simple choropleth map visualizing the percentage of residents who have attaine
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img style="border:1px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
 
-### Baltimore City
+### Maryland
+
+**[Who Should Lead the GOP? Election Analysis](/Project383.8/index)** <br>
+A multi-map time-series analysis of Donald Trump and Larry Hogan's election perfomance in Maryland's previous Presidential and Gubernatorial elections. <br>
+[<img style="border:2px solid black;" src="Project383.8/GES_383_Final.svg?raw=true"/>](/Project383.8/index)
 
 **[Baltimore City Violent Crime Choropleth](/Project383/Project383.2/index)** <br>
 A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
