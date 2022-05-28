@@ -5,7 +5,7 @@
 
 ## Thematic & Statistical Cartography 
 
-### International
+### Ukraine
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/Project383.1/index)** <br>
 A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
