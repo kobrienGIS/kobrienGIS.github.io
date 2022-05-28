@@ -5,13 +5,11 @@
 
 ## Thematic & Statistical Cartography 
 
-### Ukraine
+### International
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/Project383.1/index)** <br>
 A simple political map created in QGIS and edited in Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO before the invasion began. <br>
 [<img style="border:2px solid black;" src="Project383/Project383.1/ukrainerussiaMAP.svg?raw=true"/>](/Project383/Project383.1/index)
-
----
 
 ### Washington D.C.
 
@@ -30,8 +28,6 @@ A simple choropleth map visualizing the percentage of residents who have attaine
 **[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
 A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img style="border:1px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
-
----
 
 ### Maryland
 
