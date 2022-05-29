@@ -1,6 +1,6 @@
 # Political Map of the Russia-Ukraine Crisis (2022/02/20)
 
-<img style="border:3px solid black;" src="ukrainerussiaMAP.svg?raw=true"/>
+<img style="border:2px solid black;" src="ukrainerussiaMAP.svg?raw=true"/>
 
 ## Project description:
 This map is a quick visual representation of the current geopolitical climate in the wake of skyrocketing tensions between Russia and Ukraine. The map shows that Ukraine is effectively surrounded on three sides by the hostile states of Russia and Belarus in the North and Northeast, the separatist regions in the East, the Russian occupied Crimean peninsula in the South, and by an unrecognized republic known as the Transnistria, or the Pridnestrovian Moldavian Republic, in the Southwest. Ukraine is caught in the crosshairs and bracing for conflict with many of its major cities including its capital of Kyiv in grave danger. <br>
