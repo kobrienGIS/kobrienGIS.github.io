@@ -1,6 +1,6 @@
-# Terrain Map of Ukraine
+# Terrain Map of Ukraine (5/29/2022)
 
 <img style="border:2px solid black;" src="UAtopo2.png?raw=true"/>
 
 ## Project description:
-Oftentimes battlefield terrain and physical geography can be the primary decider of victory. In monitoring the ongoing war in Ukraine, becoming familiar with and effectively utilizing the country's topography is essential. 
+Oftentimes battlefield terrain and physical geography can be the primary decider of victory. In monitoring the ongoing war in Ukraine, becoming familiar with and effectively utilizing the country's topography is essential. From this overview one can observe that most of Ukraine is relatively flat which generally benefits mechanized infantry and tank tactics, especially in the remaining active fronts in the south and in the Donbass. Another thing to note is that water resources such as rivers and lakes have already provided and may continue to provide strategic bottlenecks or barriers for advancing ground units. Recently, Ukraine has effectively utilized these natural barrriers in the northeast by destroying bridges and targetting Russian pontoon bridges, destroying many vehicles and preventing crossings. These water resources have also appeared to contain Russian advances in the south as they advance in the direction of Odessa. Due to the limited informational value of elevation estimates and water resources alone, this map should be used as a reference in conjunction with other topographical maps and frontline maps for additional context. 
