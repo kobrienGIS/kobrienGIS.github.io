@@ -27,16 +27,6 @@ A simple elevation terrain map of Ukraine created with QGIS using several elevat
 A simple political map created in QGIS and Inkscape that showcases the fragile geopolitical balance preserved between Russia, Ukraine, and NATO just days before the Russian invasion began. <br>
 [<img style="border:2px solid black;" src="Project383/Project383.1/ukrainerussiaMAP.svg?raw=true"/>](/Project383/Project383.1/index)
 
-### Washington D.C.
-
-**[Washington D.C. Chronic Inequality Spotlight](/Project383/Project383.5/index)** <br>
-A poster and series of maps highlighting the central characteristics and indicators of inequality along census tracts in Washington D.C. created in QGIS and Inkscape using data downloaded from the U.S. Census Bureau API with tidycensus in RStudio. <br>
-[<img style="border:2px solid black;" src="/Project383/Project2_383-1.png?raw=true"/>](/Project383/Project383.5/index)
-
-**[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
-A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. created in QGIS and using 2020 data sourced from the U.S. Census Bureau and Open Data DC. <br>
-[<img style="border:1px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
-
 ### Maryland
 
 **[Election Analysis: Who Should Lead the GOP?](/Project383/Project383.8/index)** <br>
@@ -46,6 +36,16 @@ A poster and multi-map time-series analysis of Donald Trump and Larry Hogan's el
 **[Baltimore City Crime Rates](/Project383/Project383.2/index)** <br>
 Two simple and quickly-produced maps of crime rates in Baltimore City created with QGIS using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
 [<img src="Project383/Project383.2/Lab3ges383.svg?raw=true"/>](/Project383/Project383.2/index)
+
+### Washington D.C.
+
+**[Washington D.C. Chronic Inequality Spotlight](/Project383/Project383.5/index)** <br>
+A poster and series of maps highlighting the central characteristics and indicators of inequality along census tracts in Washington D.C. created in QGIS and Inkscape using data downloaded from the U.S. Census Bureau API with tidycensus in RStudio. <br>
+[<img style="border:2px solid black;" src="/Project383/Project2_383-1.png?raw=true"/>](/Project383/Project383.5/index)
+
+**[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
+A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. created in QGIS and using 2020 data sourced from the U.S. Census Bureau and Open Data DC. <br>
+[<img style="border:1px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
 
 ---
 
