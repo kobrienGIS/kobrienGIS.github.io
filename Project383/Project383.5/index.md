@@ -1,6 +1,6 @@
 # Washington D.C. Chronic Inequality Spotlight
 
-<img style="border:2px solid black;" src="/Project383/Project383.5/Project2_383-1.png?raw=true"/>
+<img style="border:2px solid black;" src="/Project383/Project2_383-1.png?raw=true"/>
 
 ## Project Description
 The following maps were originally visualized in a poster created with Inkscape documenting chronic inequality in Washington D.C. included here. Each of the maps were created in QGIS using 2020 US Census Bureau ACS data downloaded with tidycensus in RStudio.
