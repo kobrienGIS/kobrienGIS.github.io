@@ -22,7 +22,7 @@ A series of maps highlighting central characteristics and indicators of inequali
 [<img style="border:2px solid black;" src="/Project383/Project2_383-1.png?raw=true"/>](/Project383/Project383.5/index)
 
 **[Washington D.C. Racial Dot-Density](/Project383/Project383.3/index)** <br>
-A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using data sourced from the U.S. Census Bureau and Open Data DC. <br>
+A compound dot-density map depicting population density and distribution of the three largest racial groups (excluding hispanic or latino origin) in Washington D.C. using 2020 data sourced from the U.S. Census Bureau and Open Data DC. <br>
 [<img style="border:1px solid black;" src="Project383/Project383.3/ges383.3.png?raw=true"/>](/Project383/Project383.3/index) <br>
 
 ### Maryland
@@ -31,13 +31,9 @@ A compound dot-density map depicting population density and distribution of the 
 A multi-map time-series analysis of Donald Trump and Larry Hogan's election perfomance in Maryland's previous Presidential and Gubernatorial elections. <br>
 [<img style="border:2px solid black;" src="Project383/Project383.8/GES_383_Final.svg?raw=true"/>](/Project383/Project383.8/index)
 
-**[Baltimore City Violent Crime Choropleth](/Project383/Project383.2/index)** <br>
-A quickly-produced choropleth map of violent crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
+**[Baltimore City Crime Rates](/Project383/Project383.2/index)** <br>
+Two simple and quickly-produced map of crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
 [<img src="Project383/Project383.2/Lab3ges383.svg?raw=true"/>](/Project383/Project383.2/index)
-
-**[Baltimore City Property Crime Proportional Symbols](/Project383/Project383.4/index)** <br>
-A proportional symbols map of property crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
-[<img src="Project383/Project383.4/Labwk10ges383.1.png?raw=true"/>](/Project383/Project383.4/index) <br>
 
 ---
 
