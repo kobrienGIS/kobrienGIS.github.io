@@ -3,12 +3,24 @@
 
 ---
 
+## Advanced GIS 
+
+**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
+A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
+[<img style="border:2px solid black;" src="Project486.4/GentInterpFinalMap.svg?raw=true"/>](/Project486.4/index)
+
+**[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
+A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF with maps produced in RStudio. <br>
+[<img style="border:2px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.3/index)
+
+---
+
 ## Thematic & Statistical Cartography 
 
 ### Ukraine
 
 **[Terrain Map of Ukraine](/Project383/Project383.1.2/index)** <br>
-A terrain map of Ukraine created with QGIS generated with elevation DEM rasters from USGS Earth Explorer. <br>
+A terrain map of Ukraine created with QGIS generated with elevation DEMs sourced from USGS Earth Explorer. <br>
 [<img style="border:2px solid black;" src="Project383/Project383.1.2/UAtopo2.png?raw=true"/>](/Project383/Project383.1.2/index)
 
 **[Political Map of the Russia-Ukraine Crisis](/Project383/Project383.1/index)** <br>
@@ -34,18 +46,6 @@ A multi-map time-series analysis of Donald Trump and Larry Hogan's election perf
 **[Baltimore City Crime Rates](/Project383/Project383.2/index)** <br>
 Two simple and quickly-produced map of crime rates in Baltimore City using data sourced from the Baltimore Neighborhood Indicators Alliance (BNIA) and the Maryland GIS Data Catalog. <br>
 [<img src="Project383/Project383.2/Lab3ges383.svg?raw=true"/>](/Project383/Project383.2/index)
-
----
-
-## Advanced GIS 
-
-**[Mapping and Predicting Gentrification in Washington D.C. from 2010 to 2019](/Project486.4/index)** <br>
-A multi-map time-series project that analyzes several indicators of gentrification and predicts the risk of gentrification across census tracts. <br>
-[<img style="border:2px solid black;" src="Project486.4/GentInterpFinalMap.svg?raw=true"/>](/Project486.4/index)
-
-**[Motor Vehicle Fatality Rates in the U.S. from 1980 to 2020 (GIF)](/Project486.3/index)** <br>
-A mapped time-series of vehicle accident death rates across the United States by state since 1980 visualized as animated GIF with maps produced in RStudio. <br>
-[<img style="border:2px solid black;" src="Project486.3/P1MotorDeaths.gif?raw=true"/>](/Project486.3/index)
 
 ---
 
